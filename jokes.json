@@ -1,0 +1,3602 @@
+[
+    {
+        "setup": "What did the fish say when it hit the wall?",
+        "delivery": "Dam.",
+        "category": "General",
+        "id": "abb84d06-5288-4aa8-822d-1a75c664482a"
+    },
+    {
+        "setup": "How do you make a tissue dance?",
+        "delivery": "You put a little boogie on it.",
+        "category": "General",
+        "id": "2469401f-e424-4ecb-9c12-998a5084a8fa"
+    },
+    {
+        "setup": "What's Forrest Gump's password?",
+        "delivery": "1Forrest1",
+        "category": "General",
+        "id": "9e9d7078-20c7-4ec1-81eb-c5fa512b42a9"
+    },
+    {
+        "setup": "What do you call a belt made out of watches?",
+        "delivery": "A waist of time.",
+        "category": "General",
+        "id": "64601b54-b1bf-4a07-989b-1c2e012de2c5"
+    },
+    {
+        "setup": "Why can't bicycles stand on their own?",
+        "delivery": "They are two tired",
+        "category": "General",
+        "id": "b2c23b72-177d-40c7-b77c-6cc4a43ea40a"
+    },
+    {
+        "setup": "How does a train eat?",
+        "delivery": "It goes chew, chew",
+        "category": "General",
+        "id": "0ce346d3-e7cd-415c-baf8-9af495d510ba"
+    },
+    {
+        "setup": "What do you call a singing Laptop",
+        "delivery": "A Dell",
+        "category": "General",
+        "id": "6eb7c69c-bfbf-4460-a771-ab233ec27176"
+    },
+    {
+        "setup": "How many lips does a flower have?",
+        "delivery": "Tulips",
+        "category": "General",
+        "id": "409514e2-98c3-44ec-903c-e1296d596ded"
+    },
+    {
+        "setup": "How do you organize an outer space party?",
+        "delivery": "You planet",
+        "category": "General",
+        "id": "e9eab019-bbdd-4964-9d62-5d90d99d2b72"
+    },
+    {
+        "setup": "What kind of shoes does a thief wear?",
+        "delivery": "Sneakers",
+        "category": "General",
+        "id": "45ff2d49-3889-4d41-8134-d8ea89836a2c"
+    },
+    {
+        "setup": "What's the best time to go to the dentist?",
+        "delivery": "Tooth hurty.",
+        "category": "General",
+        "id": "2c82d601-35e8-4f3e-993e-58c4f406daa6"
+    },
+    {
+        "setup": "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who?",
+        "delivery": "Never mind. It's pointless.",
+        "category": "Knock-knock",
+        "id": "91788946-7650-421b-b695-3754e2d45c67"
+    },
+    {
+        "setup": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
+        "delivery": "No, cows go moo.",
+        "category": "Knock-knock",
+        "id": "59410937-4604-4644-af19-cf77f8265ffe"
+    },
+    {
+        "setup": "Knock knock. \n Who's there? \n Little old lady. \n Little old lady who?",
+        "delivery": "I didn't know you could yodel!",
+        "category": "Knock-knock",
+        "id": "039dab27-8460-4074-b02e-b8c51207915c"
+    },
+    {
+        "setup": "What's the best thing about a Boolean?",
+        "delivery": "Even if you're wrong, you're only off by a bit.",
+        "category": "Programming",
+        "id": "a0519c3c-01af-42f5-89e5-3741428eb18e"
+    },
+    {
+        "setup": "What's the object-oriented way to become wealthy?",
+        "delivery": "Inheritance",
+        "category": "Programming",
+        "id": "82f83b2e-91ac-45fc-aad3-2ebb75b33e4a"
+    },
+    {
+        "setup": "Where do programmers like to hangout?",
+        "delivery": "The Foo Bar.",
+        "category": "Programming",
+        "id": "6818b35b-eeca-40d1-8062-b4d0f8d86409"
+    },
+    {
+        "setup": "Why did the programmer quit his job?",
+        "delivery": "Because he didn't get arrays.",
+        "category": "Programming",
+        "id": "f3c4c453-7f91-459a-ac4b-f2b1e9cba354"
+    },
+    {
+        "setup": "Did you hear about the two silk worms in a race?",
+        "delivery": "It ended in a tie.",
+        "category": "General",
+        "id": "cd5ddfc9-83da-4bd4-988d-af3fcba1aa70"
+    },
+    {
+        "setup": "What do you call a laughing motorcycle?",
+        "delivery": "A Yamahahahaha.",
+        "category": "General",
+        "id": "0c8344b1-d7f5-483d-9be9-2cbdd9e427bf"
+    },
+    {
+        "setup": "A termite walks into a bar and says...",
+        "delivery": "'Where is the bar tended?'",
+        "category": "General",
+        "id": "7e93d6cb-c087-445c-9913-0b2623322aeb"
+    },
+    {
+        "setup": "What does C.S. Lewis keep at the back of his wardrobe?",
+        "delivery": "Narnia business!",
+        "category": "General",
+        "id": "3c056376-51ee-4d7e-9c57-da7db99bef4e"
+    },
+    {
+        "setup": "Why do programmers always mix up Halloween and Christmas?",
+        "delivery": "Because Oct 31 == Dec 25",
+        "category": "Programming",
+        "id": "8f360b5d-ae5b-4713-9d90-28b20542f2b7"
+    },
+    {
+        "setup": "A SQL query walks into a bar, walks up to two tables and asks...",
+        "delivery": "'Can I join you?'",
+        "category": "Programming",
+        "id": "c6d6c308-80d2-4fe4-92b8-6a32bb9e3b38"
+    },
+    {
+        "setup": "How many programmers does it take to change a lightbulb?",
+        "delivery": "None that's a hardware problem",
+        "category": "Programming",
+        "id": "d78a8c49-bcf4-41c6-8f7d-089d59908910"
+    },
+    {
+        "setup": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program",
+        "delivery": "the rest of them will write Perl",
+        "category": "Programming",
+        "id": "3b927bac-f636-451b-89de-52c857d44b08"
+    },
+    {
+        "setup": "['hip', 'hip']",
+        "delivery": "(hip hip array)",
+        "category": "Programming",
+        "id": "6ec8e932-2714-4c49-b896-2b4e8aabee38"
+    },
+    {
+        "setup": "To understand what recursion is...",
+        "delivery": "You must first understand what recursion is",
+        "category": "Programming",
+        "id": "747983d4-8c3e-4a6e-b488-0cc36bc46263"
+    },
+    {
+        "setup": "There are 10 types of people in this world...",
+        "delivery": "Those who understand binary and those who don't",
+        "category": "Programming",
+        "id": "0baffafe-ac38-45f8-931b-61617bba6fc0"
+    },
+    {
+        "setup": "What did the duck say when he bought lipstick?",
+        "delivery": "Put it on my bill",
+        "category": "General",
+        "id": "b320c6f1-5101-4f6a-b50a-02be09f23fb0"
+    },
+    {
+        "setup": "What happens to a frog's car when it breaks down?",
+        "delivery": "It gets toad away",
+        "category": "General",
+        "id": "bf2a5d4e-5ade-4ea2-9a43-ea142bc49d85"
+    },
+    {
+        "setup": "did you know the first French fries weren't cooked in France?",
+        "delivery": "they were cooked in Greece",
+        "category": "General",
+        "id": "ccebbf95-6fbf-4b25-8274-0c72965c4e77"
+    },
+    {
+        "setup": "Which song would an exception sing?",
+        "delivery": "Can't catch me - Avicii",
+        "category": "Programming",
+        "id": "f1bfa895-4d44-4fd2-a89c-dbb2b14c042f"
+    },
+    {
+        "setup": "Knock knock. \n Who's there? \n Opportunity.",
+        "delivery": "That is impossible. Opportunity doesn’t come knocking twice!",
+        "category": "Knock-knock",
+        "id": "4ccf4a0a-0bcb-4208-ac3d-1757e5ae6c73"
+    },
+    {
+        "setup": "Why do Java programmers wear glasses?",
+        "delivery": "Because they don't C#",
+        "category": "Programming",
+        "id": "3e9fdb0c-a6aa-4088-9f4c-726bb9ba82d6"
+    },
+    {
+        "setup": "Why did the mushroom get invited to the party?",
+        "delivery": "Because he was a fungi.",
+        "category": "General",
+        "id": "aeb0064d-3813-459d-91ff-7db5a3ddd5a8"
+    },
+    {
+        "setup": "Why did the mushroom get invited to the party?",
+        "delivery": "Because he was a fungi.",
+        "category": "General",
+        "id": "f066f950-a5dc-497a-9f15-f1394b2671e6"
+    },
+    {
+        "setup": "I'm reading a book about anti-gravity...",
+        "delivery": "It's impossible to put down",
+        "category": "General",
+        "id": "74234954-5d57-435c-bd9a-71b146ff154c"
+    },
+    {
+        "setup": "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?",
+        "delivery": "European",
+        "category": "General",
+        "id": "1bf00198-e6ad-4adb-aef5-a617ee7f2390"
+    },
+    {
+        "setup": "Want to hear a joke about a piece of paper?",
+        "delivery": "Never mind...it's tearable",
+        "category": "General",
+        "id": "b6638ecb-dc4e-4be6-9ac5-924c92c6de27"
+    },
+    {
+        "setup": "I just watched a documentary about beavers.",
+        "delivery": "It was the best dam show I ever saw",
+        "category": "General",
+        "id": "44ff4f82-3120-416a-acd4-3f52cfa82830"
+    },
+    {
+        "setup": "If you see a robbery at an Apple Store...",
+        "delivery": "Does that make you an iWitness?",
+        "category": "General",
+        "id": "c00ee2dd-813d-4e87-bd56-58efbdcb8f14"
+    },
+    {
+        "setup": "A ham sandwhich walks into a bar and orders a beer. The bartender says...",
+        "delivery": "I'm sorry, we don't serve food here",
+        "category": "General",
+        "id": "4e66525e-2bd0-419b-aeda-8e08cf747e43"
+    },
+    {
+        "setup": "Why did the Clydesdale give the pony a glass of water?",
+        "delivery": "Because he was a little horse",
+        "category": "General",
+        "id": "101574e1-7ac8-45b2-bc28-4b4f596a8b89"
+    },
+    {
+        "setup": "If you boil a clown...",
+        "delivery": "Do you get a laughing stock?",
+        "category": "General",
+        "id": "12709400-4d67-4d54-92a3-dde69e4fcd4c"
+    },
+    {
+        "setup": "Finally realized why my plant sits around doing nothing all day...",
+        "delivery": "He loves his pot.",
+        "category": "General",
+        "id": "e822f0ff-473e-4a18-9c8b-b071480185cb"
+    },
+    {
+        "setup": "Don't look at the eclipse through a colander.",
+        "delivery": "You'll strain your eyes.",
+        "category": "General",
+        "id": "2d362baa-d459-4aa0-bce6-7a01f8b54c8e"
+    },
+    {
+        "setup": "I bought some shoes from a drug dealer.",
+        "delivery": "I don't know what he laced them with, but I was tripping all day!",
+        "category": "General",
+        "id": "82a5698a-df34-4c35-be7c-82cbbcf0c96f"
+    },
+    {
+        "setup": "Why do chicken coops only have two doors?",
+        "delivery": "Because if they had four, they would be chicken sedans",
+        "category": "General",
+        "id": "8a8ea853-b47d-4241-9b6d-431b66ab0262"
+    },
+    {
+        "setup": "What do you call a factory that sells passable products?",
+        "delivery": "A satisfactory",
+        "category": "General",
+        "id": "1d926f36-c98e-4146-b9c5-50ed1b62855a"
+    },
+    {
+        "setup": "When a dad drives past a graveyard: Did you know that's a popular cemetery?",
+        "delivery": "Yep, people are just dying to get in there",
+        "category": "General",
+        "id": "353bd2fd-9850-49e2-91c2-407dc443b04e"
+    },
+    {
+        "setup": "Why did the invisible man turn down the job offer?",
+        "delivery": "He couldn't see himself doing it",
+        "category": "General",
+        "id": "d7585d65-689e-4d2c-bcbd-d278cdd751e8"
+    },
+    {
+        "setup": "How do you make holy water?",
+        "delivery": "You boil the hell out of it",
+        "category": "General",
+        "id": "1fec01fb-118c-4d6d-9e74-15ff0260d875"
+    },
+    {
+        "setup": "I had a dream that I was a muffler last night.",
+        "delivery": "I woke up exhausted!",
+        "category": "General",
+        "id": "d0757d66-d2eb-42b5-820e-cf3713f4910c"
+    },
+    {
+        "setup": "Why is peter pan always flying?",
+        "delivery": "Because he neverlands",
+        "category": "General",
+        "id": "a06ace51-2702-4fdf-8338-4ff1d36c9c76"
+    },
+    {
+        "setup": "How do you check if a webpage is HTML5?",
+        "delivery": "Try it out on Internet Explorer",
+        "category": "Programming",
+        "id": "e915d92f-aedb-4459-8182-225fb0a8c512"
+    },
+    {
+        "setup": "What do you call a cow with no legs?",
+        "delivery": "Ground beef!",
+        "category": "General",
+        "id": "e3c2f79a-793b-4ccd-83c0-73b2adde3041"
+    },
+    {
+        "setup": "I dropped a pear in my car this morning.",
+        "delivery": "You should drop another one, then you would have a pair.",
+        "category": "General",
+        "id": "a8127d6c-fc70-40e9-a059-34e984b418df"
+    },
+    {
+        "setup": "Lady: How do I spread love in this cruel world?",
+        "delivery": "Random Dude: [...💘]",
+        "category": "General",
+        "id": "52bc404b-2a4b-4aaf-b61d-991884b26254"
+    },
+    {
+        "setup": "A user interface is like a joke.",
+        "delivery": "If you have to explain it then it is not that good.",
+        "category": "Programming",
+        "id": "b7a97ba0-8e2f-470a-aca2-655759432827"
+    },
+    {
+        "setup": "Knock knock. \n Who's there? \n Hatch. \n Hatch who?",
+        "delivery": "Bless you!",
+        "category": "Knock-knock",
+        "id": "b26bb990-14a2-4bb1-9b93-63117a874a18"
+    },
+    {
+        "setup": "What do you call sad coffee?",
+        "delivery": "Despresso.",
+        "category": "General",
+        "id": "67725849-8c67-456d-9a1c-c3c26bafecc1"
+    },
+    {
+        "setup": "Why did the butcher work extra hours at the shop?",
+        "delivery": "To make ends meat.",
+        "category": "General",
+        "id": "76e6e46c-6899-49f1-8306-f6028ce15e61"
+    },
+    {
+        "setup": "Did you hear about the hungry clock?",
+        "delivery": "It went back four seconds.",
+        "category": "General",
+        "id": "55f3ab51-0e03-4170-a943-5538d90c5e04"
+    },
+    {
+        "setup": "Well...",
+        "delivery": "That’s a deep subject.",
+        "category": "General",
+        "id": "62ec60c7-6d9f-436f-abce-25762e884258"
+    },
+    {
+        "setup": "Did you hear the story about the cheese that saved the world?",
+        "delivery": "It was legend dairy.",
+        "category": "General",
+        "id": "48c93ff8-200c-47ca-83ad-fd47c8eb2f10"
+    },
+    {
+        "setup": "Did you watch the new comic book movie?",
+        "delivery": "It was very graphic!",
+        "category": "General",
+        "id": "104d344d-f2bd-4749-bec6-94da5e264899"
+    },
+    {
+        "setup": "I started a new business making yachts in my attic this year...",
+        "delivery": "The sails are going through the roof.",
+        "category": "General",
+        "id": "feafb8ab-4e7e-4e6d-a553-7c5c86542923"
+    },
+    {
+        "setup": "I got hit in the head by a soda can, but it didn't hurt that much...",
+        "delivery": "It was a soft drink.",
+        "category": "General",
+        "id": "b18a4eb9-5672-435e-be30-1f1872b4deca"
+    },
+    {
+        "setup": "I can't tell if i like this blender...",
+        "delivery": "It keeps giving me mixed results.",
+        "category": "General",
+        "id": "15d7fb37-3cc3-425f-b525-e0706e6127c2"
+    },
+    {
+        "setup": "I couldn't get a reservation at the library...",
+        "delivery": "They were fully booked.",
+        "category": "General",
+        "id": "d4b0abac-dd6a-4264-8531-d4ef520ba038"
+    },
+    {
+        "setup": "I was gonna tell you a joke about UDP...",
+        "delivery": "...but you might not get it.",
+        "category": "Programming",
+        "id": "31d56a01-003e-4365-a4b2-57049c252cba"
+    },
+    {
+        "setup": "The punchline often arrives before the set-up.",
+        "delivery": "Do you know the problem with UDP jokes?",
+        "category": "Programming",
+        "id": "1a602f07-07b6-4068-8a61-39bf011b2f6f"
+    },
+    {
+        "setup": "Why do C# and Java developers keep breaking their keyboards?",
+        "delivery": "Because they use a strongly typed language.",
+        "category": "Programming",
+        "id": "2497aba2-1eec-48b4-a0fa-d72f266ab5b9"
+    },
+    {
+        "setup": "What do you give to a lemon in need?",
+        "delivery": "Lemonaid.",
+        "category": "General",
+        "id": "0c8ef2dd-c02c-4e56-966d-76191fb813f1"
+    },
+    {
+        "setup": "Never take advice from electrons.",
+        "delivery": "They are always negative.",
+        "category": "General",
+        "id": "7581294e-031a-4b96-a653-5b03aa6e7d04"
+    },
+    {
+        "setup": "Hey, dad, did you get a haircut?",
+        "delivery": "No, I got them all cut.",
+        "category": "General",
+        "id": "25042751-feaf-47a9-b0eb-9693d2dfe0a6"
+    },
+    {
+        "setup": "What time is it?",
+        "delivery": "I don't know... it keeps changing.",
+        "category": "General",
+        "id": "f40c9ace-5df2-4612-976f-2d7f61312f2b"
+    },
+    {
+        "setup": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"",
+        "delivery": "Pop,goes the weasel.",
+        "category": "General",
+        "id": "1751b4c5-8b3f-49f6-9668-8d9215771096"
+    },
+    {
+        "setup": "Bad at golf?",
+        "delivery": "Join the club.",
+        "category": "General",
+        "id": "a992435b-7f2d-4d29-91bf-b53cf682b5b7"
+    },
+    {
+        "setup": "Can a kangaroo jump higher than the Empire State Building?",
+        "delivery": "Of course. The Empire State Building can't jump.",
+        "category": "General",
+        "id": "9bb6e1c5-091b-45a1-a897-fecbced977ed"
+    },
+    {
+        "setup": "Can February march?",
+        "delivery": "No, but April may.",
+        "category": "General",
+        "id": "96e6bd46-d601-473f-9213-83faf5356130"
+    },
+    {
+        "setup": "Can I watch the TV?",
+        "delivery": "Yes, but don’t turn it on.",
+        "category": "General",
+        "id": "0d0e4677-1b1c-4c9d-80a1-fc855e610454"
+    },
+    {
+        "setup": "Dad, can you put my shoes on?",
+        "delivery": "I don't think they'll fit me.",
+        "category": "General",
+        "id": "48138d9f-70f4-4613-9d31-565886203107"
+    },
+    {
+        "setup": "Did you hear about the bread factory burning down?",
+        "delivery": "They say the business is toast.",
+        "category": "General",
+        "id": "d844878f-d8fe-40fb-a261-b82902ee7293"
+    },
+    {
+        "setup": "Did you hear about the chameleon who couldn't change color?",
+        "delivery": "They had a reptile dysfunction.",
+        "category": "General",
+        "id": "9f4d1c56-918e-4510-bda4-3a23793a95d3"
+    },
+    {
+        "setup": "Did you hear about the cheese factory that exploded in France?",
+        "delivery": "There was nothing left but de Brie.",
+        "category": "General",
+        "id": "c069fc82-b254-4fc8-8950-914540c9de09"
+    },
+    {
+        "setup": "Did you hear about the cow who jumped over the barbed wire fence?",
+        "delivery": "It was udder destruction.",
+        "category": "General",
+        "id": "00b01cfc-dbc1-4ece-a03b-fa7592164c07"
+    },
+    {
+        "setup": "Did you hear about the guy who invented Lifesavers?",
+        "delivery": "They say he made a mint.",
+        "category": "General",
+        "id": "b63eb19c-2467-4ccc-bbab-ac5fd32911ce"
+    },
+    {
+        "setup": "Did you hear about the guy whose whole left side was cut off?",
+        "delivery": "He's all right now.",
+        "category": "General",
+        "id": "9c5fb105-4a4e-49b6-843c-1ac6a1239839"
+    },
+    {
+        "setup": "Did you hear about the kidnapping at school?",
+        "delivery": "It's ok, he woke up.",
+        "category": "General",
+        "id": "2ce47499-e3df-4b06-8acf-9e44e1fb132f"
+    },
+    {
+        "setup": "Did you hear about the Mexican train killer?",
+        "delivery": "He had loco motives",
+        "category": "General",
+        "id": "1ea868e3-040b-40d9-a2b9-405ddeedf489"
+    },
+    {
+        "setup": "Did you hear about the new restaurant on the moon?",
+        "delivery": "The food is great, but there’s just no atmosphere.",
+        "category": "General",
+        "id": "549acf6f-9b47-4693-a981-a5427cc30dbf"
+    },
+    {
+        "setup": "Did you hear about the runner who was criticized?",
+        "delivery": "He just took it in stride",
+        "category": "General",
+        "id": "da53208c-6271-47cd-8ea4-2db373dd8898"
+    },
+    {
+        "setup": "Did you hear about the scientist who was lab partners with a pot of boiling water?",
+        "delivery": "He had a very esteemed colleague.",
+        "category": "General",
+        "id": "57be65be-e0f4-430c-a359-0ffbe49afe48"
+    },
+    {
+        "setup": "Did you hear about the submarine industry?",
+        "delivery": "It really took a dive...",
+        "category": "General",
+        "id": "d4eea447-c2c9-434f-a16a-d166af445e08"
+    },
+    {
+        "setup": "Did you hear that David lost his ID in prague?",
+        "delivery": "Now we just have to call him Dav.",
+        "category": "General",
+        "id": "6f299d43-243f-471e-9642-1342be3abba7"
+    },
+    {
+        "setup": "Did you hear that the police have a warrant out on a midget psychic ripping people off?",
+        "delivery": "It reads \"Small medium at large.\"",
+        "category": "General",
+        "id": "67f1b5cc-2203-4ea3-afe0-a3dc51073962"
+    },
+    {
+        "setup": "Did you hear the joke about the wandering nun?",
+        "delivery": "She was a roman catholic.",
+        "category": "General",
+        "id": "b03babf7-43a2-4fef-864d-1f5748358f71"
+    },
+    {
+        "setup": "Did you hear the news?",
+        "delivery": "FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.",
+        "category": "General",
+        "id": "9d5fcc57-19fc-4d57-913e-5bf19ad38987"
+    },
+    {
+        "setup": "Did you hear the one about the guy with the broken hearing aid?",
+        "delivery": "Neither did he.",
+        "category": "General",
+        "id": "45ce2d32-ea2f-4fb7-b6f3-14a055741b12"
+    },
+    {
+        "setup": "Did you know crocodiles could grow up to 15 feet?",
+        "delivery": "But most just have 4.",
+        "category": "General",
+        "id": "0301ba13-ad8b-4e64-9816-f0a53b901f6e"
+    },
+    {
+        "setup": "What do ghosts call their true love?",
+        "delivery": "Their ghoul-friend",
+        "category": "General",
+        "id": "25e861e1-cf39-4470-a993-88d84698aa3f"
+    },
+    {
+        "setup": "Did you know that protons have mass?",
+        "delivery": "I didn't even know they were catholic.",
+        "category": "General",
+        "id": "f7520e1a-314c-432b-ba6b-6903db59777d"
+    },
+    {
+        "setup": "Did you know you should always take an extra pair of pants golfing?",
+        "delivery": "Just in case you get a hole in one.",
+        "category": "General",
+        "id": "71a7adea-35d0-4993-a88d-2e490b17fd13"
+    },
+    {
+        "setup": "Do I enjoy making courthouse puns?",
+        "delivery": "Guilty",
+        "category": "General",
+        "id": "103677b0-6179-4218-9f76-1c00fb74dc13"
+    },
+    {
+        "setup": "Do you know where you can get chicken broth in bulk?",
+        "delivery": "The stock market.",
+        "category": "General",
+        "id": "6d84f890-b2b7-4b3a-a4fc-a66477f6a2c0"
+    },
+    {
+        "setup": "Do you want a brief explanation of what an acorn is?",
+        "delivery": "In a nutshell, it's an oak tree.",
+        "category": "General",
+        "id": "8cb6452b-a461-4d92-b342-e86c0e77ce0c"
+    },
+    {
+        "setup": "Ever wondered why bees hum?",
+        "delivery": "It's because they don't know the words.",
+        "category": "General",
+        "id": "86d1b264-6c8c-4bdd-9ed4-bb65cd1b02fe"
+    },
+    {
+        "setup": "Have you ever heard of a music group called Cellophane?",
+        "delivery": "They mostly wrap.",
+        "category": "General",
+        "id": "e7ebc023-3dfb-4044-8c45-2d7b5370cd72"
+    },
+    {
+        "setup": "Have you heard of the band 1023MB?",
+        "delivery": "They haven't got a gig yet.",
+        "category": "General",
+        "id": "b9fffe7c-fda0-4b2d-a923-73962baded50"
+    },
+    {
+        "setup": "Have you heard the rumor going around about butter?",
+        "delivery": "Never mind, I shouldn't spread it.",
+        "category": "General",
+        "id": "d82e7c60-f673-4b48-8b62-2236eca58888"
+    },
+    {
+        "setup": "How are false teeth like stars?",
+        "delivery": "They come out at night!",
+        "category": "General",
+        "id": "568272fa-e39e-4422-9900-c28cf8985d23"
+    },
+    {
+        "setup": "How can you tell a vampire has a cold?",
+        "delivery": "They start coffin.",
+        "category": "General",
+        "id": "abf4b409-af94-4f57-abbd-048df44da542"
+    },
+    {
+        "setup": "How come a man driving a train got struck by lightning?",
+        "delivery": "He was a good conductor.",
+        "category": "General",
+        "id": "3226da2c-3be4-4ce1-9a3d-cb76ea5d8171"
+    },
+    {
+        "setup": "How come the stadium got hot after the game?",
+        "delivery": "Because all of the fans left.",
+        "category": "General",
+        "id": "9d1793fc-b686-4d1e-9ffe-ca4cc649d025"
+    },
+    {
+        "setup": "How did Darth Vader know what Luke was getting for Christmas?",
+        "delivery": "He felt his presents.",
+        "category": "General",
+        "id": "74e9235a-afd4-41dd-910d-6b916aa76464"
+    },
+    {
+        "setup": "How did the hipster burn the roof of his mouth?",
+        "delivery": "He ate the pizza before it was cool.",
+        "category": "General",
+        "id": "ad67d207-7a24-41b8-9fbd-1a99c0422926"
+    },
+    {
+        "setup": "How do hens stay fit?",
+        "delivery": "They always egg-cercise!",
+        "category": "General",
+        "id": "314951c3-63af-4b6f-abe7-7f0e92f66405"
+    },
+    {
+        "setup": "How do locomotives know where they're going?",
+        "delivery": "Lots of training",
+        "category": "General",
+        "id": "a46ada35-d301-42e3-b93e-f7a1b7483b6f"
+    },
+    {
+        "setup": "How do the trees get on the internet?",
+        "delivery": "They log on.",
+        "category": "General",
+        "id": "7abf925b-96ff-4e12-aa02-f2edf5611a53"
+    },
+    {
+        "setup": "How do you find Will Smith in the snow?",
+        "delivery": " Look for fresh prints.",
+        "category": "General",
+        "id": "ff388e79-ac83-453f-aa50-be629bcb358b"
+    },
+    {
+        "setup": "How do you fix a broken pizza?",
+        "delivery": "With tomato paste.",
+        "category": "General",
+        "id": "955bd1be-0f24-4759-8419-c198cd45cdcb"
+    },
+    {
+        "setup": "How do you fix a damaged jack-o-lantern?",
+        "delivery": "You use a pumpkin patch.",
+        "category": "General",
+        "id": "a1a13b42-67e3-47fb-b18b-a6240d1daa31"
+    },
+    {
+        "setup": "How do you get a baby alien to sleep?",
+        "delivery": " You rocket.",
+        "category": "General",
+        "id": "2c354939-a401-4c1c-846c-0b61b7366311"
+    },
+    {
+        "setup": "How do you get two whales in a car?",
+        "delivery": "Start in England and drive West.",
+        "category": "General",
+        "id": "2147689e-994a-4906-9798-3b116b431e20"
+    },
+    {
+        "setup": "How do you know if there’s an elephant under your bed?",
+        "delivery": "Your head hits the ceiling!",
+        "category": "General",
+        "id": "1dfb2e18-f85f-49a7-ba6f-ade9d9cc3e04"
+    },
+    {
+        "setup": "How do you make a hankie dance?",
+        "delivery": "Put a little boogie in it.",
+        "category": "General",
+        "id": "42740dda-8d17-4b8c-8faf-3e1b8ef2b12c"
+    },
+    {
+        "setup": "How do you make holy water?",
+        "delivery": "You boil the hell out of it.",
+        "category": "General",
+        "id": "d474a477-b4f3-4d24-9301-9138115852a4"
+    },
+    {
+        "setup": "How do you organize a space party?",
+        "delivery": "You planet.",
+        "category": "General",
+        "id": "2efdf31f-5fff-4209-9856-20cef76034ae"
+    },
+    {
+        "setup": "How do you steal a coat?",
+        "delivery": "You jacket.",
+        "category": "General",
+        "id": "777417bf-dfb4-401f-9596-9f66c60466f6"
+    },
+    {
+        "setup": "How do you tell the difference between a crocodile and an alligator?",
+        "delivery": "You will see one later and one in a while.",
+        "category": "General",
+        "id": "81e2b982-2473-46ea-8b7d-fb613b1bfb7b"
+    },
+    {
+        "setup": "How does a dyslexic poet write?",
+        "delivery": "Inverse.",
+        "category": "General",
+        "id": "6cee3cab-3c47-4f9c-8e44-41711eac7519"
+    },
+    {
+        "setup": "How does a French skeleton say hello?",
+        "delivery": "Bone-jour.",
+        "category": "General",
+        "id": "70be6ddb-1df1-412a-942f-d37e4d13f2d8"
+    },
+    {
+        "setup": "How does a penguin build it’s house?",
+        "delivery": "Igloos it together.",
+        "category": "General",
+        "id": "72a96e6f-7f45-41c1-aed8-8d2a814d0bbc"
+    },
+    {
+        "setup": "How does a scientist freshen their breath?",
+        "delivery": "With experi-mints!",
+        "category": "General",
+        "id": "cf026560-5641-4b59-8b88-dd70d78aeab8"
+    },
+    {
+        "setup": "How does the moon cut his hair?",
+        "delivery": "Eclipse it.",
+        "category": "General",
+        "id": "a2d76069-2174-4cc8-b2df-65d3d21c4cb6"
+    },
+    {
+        "setup": "How many apples grow on a tree?",
+        "delivery": "All of them!",
+        "category": "General",
+        "id": "3999fbf7-c381-46bf-acf1-44984e41da34"
+    },
+    {
+        "setup": "How many bones are in the human hand?",
+        "delivery": "A handful of them.",
+        "category": "General",
+        "id": "70ac5e56-f502-4fb3-921a-ff5036d6f124"
+    },
+    {
+        "setup": "How many hipsters does it take to change a lightbulb?",
+        "delivery": "Oh, it's a really obscure number. You've probably never heard of it.",
+        "category": "General",
+        "id": "d6a7a0e5-9cad-4006-8e6c-1f996d749943"
+    },
+    {
+        "setup": "How many kids with ADD does it take to change a lightbulb?",
+        "delivery": "Let's go ride bikes!",
+        "category": "General",
+        "id": "24736a97-407a-476b-9f73-c7e35792f901"
+    },
+    {
+        "setup": "How many optometrists does it take to change a light bulb?",
+        "delivery": "1 or 2? 1... or 2?",
+        "category": "General",
+        "id": "58556fce-546b-4ad9-83b4-f3316fa0f179"
+    },
+    {
+        "setup": "How many seconds are in a year?",
+        "delivery": "12. January 2nd, February 2nd, March 2nd, April 2nd.... etc",
+        "category": "General",
+        "id": "26171474-5ada-4070-b6a0-f1bc6501f4f0"
+    },
+    {
+        "setup": "How many South Americans does it take to change a lightbulb?",
+        "delivery": "A Brazilian",
+        "category": "General",
+        "id": "5031b324-e9a6-4803-858d-a1f68529dfb4"
+    },
+    {
+        "setup": "How many tickles does it take to tickle an octopus?",
+        "delivery": "Ten-tickles!",
+        "category": "General",
+        "id": "50131b4a-1a1f-493e-a65e-7564488ff742"
+    },
+    {
+        "setup": "How much does a hipster weigh?",
+        "delivery": "An instagram.",
+        "category": "General",
+        "id": "5302df2e-21c1-4995-a546-07ce173755df"
+    },
+    {
+        "setup": "How was the snow globe feeling after the storm?",
+        "delivery": "A little shaken.",
+        "category": "General",
+        "id": "af69f3f0-aa21-42af-8b00-bb012e5e6bc4"
+    },
+    {
+        "setup": "Is the pool safe for diving?",
+        "delivery": "It deep ends.",
+        "category": "General",
+        "id": "6a3d61b7-9386-4acf-bfea-af6fe92c3c0d"
+    },
+    {
+        "setup": "Is there a hole in your shoe?",
+        "delivery": "No… Then how’d you get your foot in it?",
+        "category": "General",
+        "id": "9d8a51fc-1bbb-414c-bd03-54105c7fdda3"
+    },
+    {
+        "setup": "What did the spaghetti say to the other spaghetti?",
+        "delivery": "Pasta la vista, baby!",
+        "category": "General",
+        "id": "7fc67249-95de-476a-b829-882a424f3649"
+    },
+    {
+        "setup": "What’s 50 Cent’s name in Zimbabwe?",
+        "delivery": "200 Dollars.",
+        "category": "General",
+        "id": "e4fb7229-da38-4a81-a070-2b26a12a3ea5"
+    },
+    {
+        "setup": "Want to hear a chimney joke?",
+        "delivery": "Got stacks of em! First one's on the house",
+        "category": "General",
+        "id": "d57ea28a-ee50-4e97-91b1-a0f82a2a23d5"
+    },
+    {
+        "setup": "Want to hear a joke about construction?",
+        "delivery": "Nah, I'm still working on it.",
+        "category": "General",
+        "id": "ff9d2bea-230a-4d5d-ae16-2304c3b628db"
+    },
+    {
+        "setup": "Want to hear my pizza joke?",
+        "delivery": "Never mind, it's too cheesy.",
+        "category": "General",
+        "id": "c9eddd04-c8f9-4d56-bf22-c043d24ad4ba"
+    },
+    {
+        "setup": "What animal is always at a game of cricket?",
+        "delivery": "A bat.",
+        "category": "General",
+        "id": "26653354-f490-4d1e-bc26-36cd46028f42"
+    },
+    {
+        "setup": "What are the strongest days of the week?",
+        "delivery": "Saturday and Sunday...the rest are weekdays.",
+        "category": "General",
+        "id": "9377d819-a390-4d4d-8670-e8ea585667a4"
+    },
+    {
+        "setup": "What biscuit does a short person like?",
+        "delivery": "Shortbread. ",
+        "category": "General",
+        "id": "4797902d-0b90-4187-83cf-b219baea08bc"
+    },
+    {
+        "setup": "What cheese can never be yours?",
+        "delivery": "Nacho cheese.",
+        "category": "General",
+        "id": "07395a86-1fdd-4a2d-bd1e-a61f8ef0cb6e"
+    },
+    {
+        "setup": "What creature is smarter than a talking parrot?",
+        "delivery": "A spelling bee.",
+        "category": "General",
+        "id": "95fccba3-0cc8-46bb-a36f-845345b64868"
+    },
+    {
+        "setup": "What did celery say when he broke up with his girlfriend?",
+        "delivery": "She wasn't right for me, so I really don't carrot all.",
+        "category": "General",
+        "id": "f5552bfe-a4f8-46fe-b83e-448025bee92e"
+    },
+    {
+        "setup": "What did Michael Jackson name his denim store?",
+        "delivery": "   Billy Jeans!",
+        "category": "General",
+        "id": "bdcaab04-4626-4b73-b44a-256925abaa0e"
+    },
+    {
+        "setup": "What did one nut say as he chased another nut?",
+        "delivery": " I'm a cashew!",
+        "category": "General",
+        "id": "7728ed2a-70ad-4a9c-92a8-967cbc071bbc"
+    },
+    {
+        "setup": "What did one plate say to the other plate?",
+        "delivery": "Dinner is on me!",
+        "category": "General",
+        "id": "a1f22e22-0ff0-4c0b-8306-8e1f4e2efd90"
+    },
+    {
+        "setup": "What did one snowman say to the other snow man?",
+        "delivery": "Do you smell carrot?",
+        "category": "General",
+        "id": "fd20bdd3-09c4-4c50-ab56-0fdc2ca25586"
+    },
+    {
+        "setup": "What did one wall say to the other wall?",
+        "delivery": "I'll meet you at the corner!",
+        "category": "General",
+        "id": "5aedd06b-c892-4e26-9c68-a4031f40bfff"
+    },
+    {
+        "setup": "What did Romans use to cut pizza before the rolling cutter was invented?",
+        "delivery": "Lil Caesars",
+        "category": "General",
+        "id": "08657621-5621-4a6d-aee4-d0be5ae24975"
+    },
+    {
+        "setup": "What did the 0 say to the 8?",
+        "delivery": "Nice belt.",
+        "category": "General",
+        "id": "d95e8541-6b39-43ed-8911-e28917248836"
+    },
+    {
+        "setup": "What did the beaver say to the tree?",
+        "delivery": "It's been nice gnawing you.",
+        "category": "General",
+        "id": "b9147d36-99f9-43fd-a776-c8189594159d"
+    },
+    {
+        "setup": "What did the big flower say to the littler flower?",
+        "delivery": "Hi, bud!",
+        "category": "General",
+        "id": "3b28b299-afd4-44d8-9ac9-02813df19f2e"
+    },
+    {
+        "setup": "What did the Buffalo say to his little boy when he dropped him off at school?",
+        "delivery": "Bison.",
+        "category": "General",
+        "id": "4d4ba6e8-4e8a-4159-b95d-5b9ded7d8d58"
+    },
+    {
+        "setup": "What did the digital clock say to the grandfather clock?",
+        "delivery": "Look, no hands!",
+        "category": "General",
+        "id": "f5d6e974-317f-4bfd-adaa-bb999f5365de"
+    },
+    {
+        "setup": "What did the dog say to the two trees?",
+        "delivery": "Bark bark.",
+        "category": "General",
+        "id": "0781acba-16a8-4fda-b605-a6d099d7037e"
+    },
+    {
+        "setup": "What did the Dorito farmer say to the other Dorito farmer?",
+        "delivery": "Cool Ranch!",
+        "category": "General",
+        "id": "c8cc5fa5-47f4-42d6-8c2b-fbcf820fa2c3"
+    },
+    {
+        "setup": "What did the fish say when it swam into a wall?",
+        "delivery": "Damn!",
+        "category": "General",
+        "id": "b955d2e3-b3a5-43c4-b8bd-ab743d2d264c"
+    },
+    {
+        "setup": "What did the grape do when he got stepped on?",
+        "delivery": "He let out a little wine.",
+        "category": "General",
+        "id": "460a8b1c-4ebb-422b-b8c6-1fd900d3ab02"
+    },
+    {
+        "setup": "What did the judge say to the dentist?",
+        "delivery": "Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
+        "category": "General",
+        "id": "1d3e3a8d-099b-4c0b-926a-bc0f4043d01c"
+    },
+    {
+        "setup": "What did the late tomato say to the early tomato?",
+        "delivery": "I’ll ketch up",
+        "category": "General",
+        "id": "2918c428-1109-4f9e-a1f5-ed6cc6ee6fcb"
+    },
+    {
+        "setup": "What did the left eye say to the right eye?",
+        "delivery": "Between us, something smells!",
+        "category": "General",
+        "id": "596a4897-5bdf-4239-a3b9-1e1a60a648b5"
+    },
+    {
+        "setup": "What did the mountain climber name his son?",
+        "delivery": "Cliff.",
+        "category": "General",
+        "id": "a219f29c-7863-4513-bd62-fcf48cdad6e2"
+    },
+    {
+        "setup": "What did the ocean say to the beach?",
+        "delivery": "Thanks for all the sediment.",
+        "category": "General",
+        "id": "70c391d9-3d71-44a3-b67e-3929cf3c708f"
+    },
+    {
+        "setup": "What did the ocean say to the shore?",
+        "delivery": "Nothing, it just waved.",
+        "category": "General",
+        "id": "5e33a05c-3368-4065-816c-34e5d0d3daa8"
+    },
+    {
+        "setup": "Why don't you find hippopotamuses hiding in trees?",
+        "delivery": "They're really good at it.",
+        "category": "General",
+        "id": "9ca908ba-ade2-489b-86ac-135c54cb1951"
+    },
+    {
+        "setup": "What did the pirate say on his 80th birthday?",
+        "delivery": "Aye Matey!",
+        "category": "General",
+        "id": "fe8cf663-bb3a-40a2-8a59-44cff0f8c9be"
+    },
+    {
+        "setup": "What did the Red light say to the Green light?",
+        "delivery": "Don't look at me I'm changing!",
+        "category": "General",
+        "id": "3183c055-edd0-4776-83bb-b2d2181d7334"
+    },
+    {
+        "setup": "What did the scarf say to the hat?",
+        "delivery": "You go on ahead, I am going to hang around a bit longer.",
+        "category": "General",
+        "id": "36bdbbcf-9428-4282-b6d7-a968b63fc6c4"
+    },
+    {
+        "setup": "What did the shy pebble wish for?",
+        "delivery": "That she was a little boulder.",
+        "category": "General",
+        "id": "381bba17-baa2-4408-ba0a-3a9c67f163e0"
+    },
+    {
+        "setup": "What did the traffic light say to the car as it passed?",
+        "delivery": "Don't look I'm changing!",
+        "category": "General",
+        "id": "6f6b1e47-d3c3-4a6e-bbd4-ccfdbf5382f4"
+    },
+    {
+        "setup": "What did the Zen Buddist say to the hotdog vendor?",
+        "delivery": "Make me one with everything.",
+        "category": "General",
+        "id": "a361fe4d-5918-452b-bb3b-ed4ffb973499"
+    },
+    {
+        "setup": "What do birds give out on Halloween?",
+        "delivery": "Tweets.",
+        "category": "General",
+        "id": "865b93c4-29ee-4e0f-9245-f1fa6577e7a6"
+    },
+    {
+        "setup": "What do I look like?",
+        "delivery": "A JOKE MACHINE!?",
+        "category": "General",
+        "id": "60d0f98a-6458-45f8-a6a4-b9e7c1ab80ad"
+    },
+    {
+        "setup": "What do prisoners use to call each other?",
+        "delivery": "Cell phones.",
+        "category": "General",
+        "id": "fa7dc213-4531-4d0d-9ef0-2936225b8e52"
+    },
+    {
+        "setup": "What do vegetarian zombies eat?",
+        "delivery": "Grrrrrainnnnnssss.",
+        "category": "General",
+        "id": "baeea77f-ad1c-47af-8e0a-7440824eff01"
+    },
+    {
+        "setup": "What do you call a bear with no teeth?",
+        "delivery": "A gummy bear!",
+        "category": "General",
+        "id": "a87ef63f-bcaf-48ef-896c-7e9d721a926f"
+    },
+    {
+        "setup": "What do you call a bee that lives in America?",
+        "delivery": "A USB.",
+        "category": "General",
+        "id": "4ac7e397-ea48-465b-a6d3-d4d9495a362f"
+    },
+    {
+        "setup": "What do you call a boomerang that won't come back?",
+        "delivery": "A stick.",
+        "category": "General",
+        "id": "00261691-7fea-424e-976f-c34bcf2c7d77"
+    },
+    {
+        "setup": "What do you call a careful wolf?",
+        "delivery": "Aware wolf.",
+        "category": "General",
+        "id": "5d205e7b-4ce5-4c03-ae2d-57e285beb9a6"
+    },
+    {
+        "setup": "What do you call a cow on a trampoline?",
+        "delivery": "A milk shake!",
+        "category": "General",
+        "id": "11de5066-4190-4efa-a1fa-ae72f107916b"
+    },
+    {
+        "setup": "What do you call a cow with no legs?",
+        "delivery": "Ground beef.",
+        "category": "General",
+        "id": "89e661e5-23a9-40ce-996e-9b46319b12b2"
+    },
+    {
+        "setup": "What do you call a cow with two legs?",
+        "delivery": "Lean beef.",
+        "category": "General",
+        "id": "f9d6ab2c-b852-4856-94c2-3ff98d6c4e0d"
+    },
+    {
+        "setup": "What do you call a crowd of chess players bragging about their wins in a hotel lobby?",
+        "delivery": "Chess nuts boasting in an open foyer.",
+        "category": "General",
+        "id": "f602fac5-94e5-4f78-8996-bee0b3b34ed3"
+    },
+    {
+        "setup": "What do you call a dad that has fallen through the ice?",
+        "delivery": "A Popsicle.",
+        "category": "General",
+        "id": "23ed0b96-ff92-4f21-8f31-2c4c8d534183"
+    },
+    {
+        "setup": "What do you call a dictionary on drugs?",
+        "delivery": "High definition.",
+        "category": "General",
+        "id": "4bd1aba3-1117-4bf1-82ef-5e77d3e61c01"
+    },
+    {
+        "setup": "what do you call a dog that can do magic tricks?",
+        "delivery": "a labracadabrador",
+        "category": "General",
+        "id": "af3f0d1e-d32d-4ff4-a006-aac6b1416fd1"
+    },
+    {
+        "setup": "What do you call a droid that takes the long way around?",
+        "delivery": "R2 detour.",
+        "category": "General",
+        "id": "d1270328-c9e3-4e66-9be7-4096bc5af163"
+    },
+    {
+        "setup": "What do you call a duck that gets all A's?",
+        "delivery": "A wise quacker.",
+        "category": "General",
+        "id": "b320c5ae-0bb9-4220-bff3-2f89c5cb94de"
+    },
+    {
+        "setup": "What do you call a fake noodle?",
+        "delivery": "An impasta.",
+        "category": "General",
+        "id": "8647c62e-e2c4-4790-8206-c2a443fc0180"
+    },
+    {
+        "setup": "What do you call a fashionable lawn statue with an excellent sense of rhythmn?",
+        "delivery": "A metro-gnome",
+        "category": "General",
+        "id": "94d0c17d-4915-451e-befe-ae5d3ae78aa7"
+    },
+    {
+        "setup": "What do you call a fat psychic?",
+        "delivery": "A four-chin teller.",
+        "category": "General",
+        "id": "866e9a68-e328-4d4e-bc4b-b6182ec5e3a5"
+    },
+    {
+        "setup": "What do you call a fly without wings?",
+        "delivery": "A walk.",
+        "category": "General",
+        "id": "6b1e43da-2f3b-4cc1-a2f6-e5b2df7a3b04"
+    },
+    {
+        "setup": "What do you call a girl between two posts?",
+        "delivery": "Annette.",
+        "category": "General",
+        "id": "1b2d4191-69c6-4bd9-8174-e2e3bd891ef8"
+    },
+    {
+        "setup": "What do you call a group of disorganized cats?",
+        "delivery": "A cat-tastrophe.",
+        "category": "General",
+        "id": "4109e058-62c9-4522-b13b-32ddff750048"
+    },
+    {
+        "setup": "What do you call a group of killer whales playing instruments?",
+        "delivery": "An Orca-stra.",
+        "category": "General",
+        "id": "2485695f-5d17-4321-8695-851cb0c19886"
+    },
+    {
+        "setup": "What do you call a monkey in a mine field?",
+        "delivery": "A babooooom!",
+        "category": "General",
+        "id": "f9097cb5-98c6-42b7-af3e-9cf3aa44cbbb"
+    },
+    {
+        "setup": "What do you call a nervous javelin thrower?",
+        "delivery": "Shakespeare.",
+        "category": "General",
+        "id": "550a26c6-c392-46e9-86c1-0ec401ed5768"
+    },
+    {
+        "setup": "What do you call a pig that knows karate?",
+        "delivery": "A pork chop!",
+        "category": "General",
+        "id": "143aaf62-8a97-4349-9154-17398635fa35"
+    },
+    {
+        "setup": "What do you call a pig with three eyes?",
+        "delivery": "Piiig",
+        "category": "General",
+        "id": "b2456602-003f-4dfc-8bf3-6b55cdb17e0c"
+    },
+    {
+        "setup": "What do you call a pile of cats?",
+        "delivery": " A Meowtain.",
+        "category": "General",
+        "id": "eb8c9c7a-e9b6-4f26-88b1-33fa70103649"
+    },
+    {
+        "setup": "What do you call a sheep with no legs?",
+        "delivery": "A cloud.",
+        "category": "General",
+        "id": "68f8c4a5-15dc-4c6f-933b-42a0bbdb802f"
+    },
+    {
+        "setup": "What do you call a troublesome Canadian high schooler?",
+        "delivery": "A poutine.",
+        "category": "General",
+        "id": "a4c4ed5e-5f60-4334-a473-cffa658b88cb"
+    },
+    {
+        "setup": "What do you call an alligator in a vest?",
+        "delivery": "An in-vest-igator!",
+        "category": "General",
+        "id": "2d55ca83-eb26-4102-8af6-aa1821e18718"
+    },
+    {
+        "setup": "What do you call an Argentinian with a rubber toe?",
+        "delivery": "Roberto",
+        "category": "General",
+        "id": "6b48937e-298b-4c2b-b182-4cd6ee5dfaa7"
+    },
+    {
+        "setup": "What do you call an eagle who can play the piano?",
+        "delivery": "Talonted!",
+        "category": "General",
+        "id": "650741cf-4f02-4212-8d00-eba311338f6a"
+    },
+    {
+        "setup": "What do you call an elephant that doesn’t matter?",
+        "delivery": "An irrelephant.",
+        "category": "General",
+        "id": "c739062a-96d9-4575-88f5-169ca29b8057"
+    },
+    {
+        "setup": "What do you call an old snowman?",
+        "delivery": "Water.",
+        "category": "General",
+        "id": "000ef70d-e5f7-4d5f-b01c-ddb6d5fcff09"
+    },
+    {
+        "setup": "What do you call cheese by itself?",
+        "delivery": "Provolone.",
+        "category": "General",
+        "id": "ca0b2ee0-b811-4c30-8a7a-92b72bfb9ada"
+    },
+    {
+        "setup": "What do you call corn that joins the army?",
+        "delivery": "Kernel.",
+        "category": "General",
+        "id": "69a96ecf-49ba-495d-8ed2-09827f19297a"
+    },
+    {
+        "setup": "What do you call someone with no nose?",
+        "delivery": "Nobody knows.",
+        "category": "General",
+        "id": "297dda0a-2bed-4e3b-9dbd-b1e6ef9bd80e"
+    },
+    {
+        "setup": "What do you call two barracuda fish?",
+        "delivery": " A Pairacuda!",
+        "category": "General",
+        "id": "22abb24c-b038-4ab4-a1ba-f3c4d1b74026"
+    },
+    {
+        "setup": "What do you do on a remote island?",
+        "delivery": "Try and find the TV island it belongs to.",
+        "category": "General",
+        "id": "bf6284fa-4d4d-489a-ab3f-7b4e60110dad"
+    },
+    {
+        "setup": "What do you do when you see a space man?",
+        "delivery": "Park your car, man.",
+        "category": "General",
+        "id": "26ac4ee0-e2fe-412a-b054-fcd801505e13"
+    },
+    {
+        "setup": "What do you get hanging from Apple trees?",
+        "delivery": "Sore arms.",
+        "category": "General",
+        "id": "6d1c298a-c11d-4e3c-b9e6-0df20c4342ca"
+    },
+    {
+        "setup": "What do you get when you cross a bee and a sheep?",
+        "delivery": "A bah-humbug.",
+        "category": "General",
+        "id": "f0546f71-e4ca-4cdd-9277-d318ccfc1e11"
+    },
+    {
+        "setup": "What do you get when you cross a chicken with a skunk?",
+        "delivery": "A fowl smell!",
+        "category": "General",
+        "id": "808ff620-496b-4a69-aaaa-794b4b0c4fc2"
+    },
+    {
+        "setup": "What do you get when you cross a rabbit with a water hose?",
+        "delivery": "Hare spray.",
+        "category": "General",
+        "id": "614d3988-21a4-4d48-a0d0-f56db746a5f6"
+    },
+    {
+        "setup": "What do you get when you cross a snowman with a vampire?",
+        "delivery": "Frostbite.",
+        "category": "General",
+        "id": "f95a854a-5f71-4655-93f9-f568d1cf3e46"
+    },
+    {
+        "setup": "What do you give a sick lemon?",
+        "delivery": "Lemonaid.",
+        "category": "General",
+        "id": "8449aba6-ff2d-4124-be78-1b70be26bb59"
+    },
+    {
+        "setup": "What does a clock do when it's hungry?",
+        "delivery": "It goes back four seconds!",
+        "category": "General",
+        "id": "dfae2c29-31a3-4f7c-a142-beac75d08c69"
+    },
+    {
+        "setup": "What does a female snake use for support?",
+        "delivery": "A co-Bra!",
+        "category": "General",
+        "id": "f22f291c-1994-42ab-b112-69e6fef58a13"
+    },
+    {
+        "setup": "What does a pirate pay for his corn?",
+        "delivery": "A buccaneer!",
+        "category": "General",
+        "id": "05ab96b1-4e7f-4c3a-ba4a-aa9209fec5f2"
+    },
+    {
+        "setup": "What does an angry pepper do?",
+        "delivery": "It gets jalapeño face.",
+        "category": "General",
+        "id": "5c24e7d1-2863-4b96-9e63-903092388f7a"
+    },
+    {
+        "setup": "What happens to a frog's car when it breaks down?",
+        "delivery": "It gets toad.",
+        "category": "General",
+        "id": "e934f352-e875-4233-9646-d295bc667961"
+    },
+    {
+        "setup": "What happens when you anger a brain surgeon?",
+        "delivery": "They will give you a piece of your mind.",
+        "category": "General",
+        "id": "b8a61123-2478-4356-b35f-2fc6f1b42ada"
+    },
+    {
+        "setup": "What has ears but cannot hear?",
+        "delivery": "A field of corn.",
+        "category": "General",
+        "id": "fc0ab739-fbfd-4009-a1ed-e9ab7dd945fb"
+    },
+    {
+        "setup": "What is a centipedes's favorite Beatle song?",
+        "delivery": " I want to hold your hand, hand, hand, hand...",
+        "category": "General",
+        "id": "32dff9bf-bce4-489f-bacc-401bd5f84dbf"
+    },
+    {
+        "setup": "What is a tornado's favorite game to play?",
+        "delivery": "Twister!",
+        "category": "General",
+        "id": "d4816286-0e35-4c05-ba6b-91cd0a12a847"
+    },
+    {
+        "setup": "What is a vampire's favorite fruit?",
+        "delivery": "A blood orange.",
+        "category": "General",
+        "id": "8ddd6bf4-a720-41fe-810f-7718d6782a3a"
+    },
+    {
+        "setup": "What is a witch's favorite subject in school?",
+        "delivery": "Spelling!",
+        "category": "General",
+        "id": "e9df5fd3-ca72-4ddc-9ffd-a9e56dc0b2ea"
+    },
+    {
+        "setup": "What is red and smells like blue paint?",
+        "delivery": "Red paint!",
+        "category": "General",
+        "id": "23dd4ebc-43d3-4469-8457-465f2378bd56"
+    },
+    {
+        "setup": "What is the difference between ignorance and apathy?",
+        "delivery": "I don't know and I don't care.",
+        "category": "General",
+        "id": "bf8d8ed7-eb63-43a6-878f-e16ee7bec7d2"
+    },
+    {
+        "setup": "What is the hardest part about sky diving?",
+        "delivery": "The ground.",
+        "category": "General",
+        "id": "605c2bf7-390e-4d58-b02a-35f18efcb4ce"
+    },
+    {
+        "setup": "What is the leading cause of dry skin?",
+        "delivery": "Towels",
+        "category": "General",
+        "id": "805d0645-fc81-436e-8139-2c9206950185"
+    },
+    {
+        "setup": "What is the least spoken language in the world?",
+        "delivery": "Sign Language",
+        "category": "General",
+        "id": "0894243f-50d5-4111-aad7-8f6a2bf3e2cd"
+    },
+    {
+        "setup": "What is the tallest building in the world?",
+        "delivery": "The library, it’s got the most stories!",
+        "category": "General",
+        "id": "ed2e3400-a9d6-4553-ab62-5190d92e4da3"
+    },
+    {
+        "setup": "What is this movie about?",
+        "delivery": "It is about 2 hours long.",
+        "category": "General",
+        "id": "8e9be636-0c23-4aed-ac36-139a2919894e"
+    },
+    {
+        "setup": "What kind of award did the dentist receive?",
+        "delivery": "A little plaque.",
+        "category": "General",
+        "id": "67e243bc-e7a1-4b0a-a331-4812d170a3b7"
+    },
+    {
+        "setup": "What kind of bagel can fly?",
+        "delivery": "A plain bagel.",
+        "category": "General",
+        "id": "b07f0667-b353-4be1-91b9-16eba2d26736"
+    },
+    {
+        "setup": "What kind of dinosaur loves to sleep?",
+        "delivery": "A stega-snore-us.",
+        "category": "General",
+        "id": "7e5c9835-0b32-421e-896f-2391bce98e18"
+    },
+    {
+        "setup": "What kind of dog lives in a particle accelerator?",
+        "delivery": "A Fermilabrador Retriever.",
+        "category": "General",
+        "id": "454cfe09-8c9f-4835-8350-243d28317eaa"
+    },
+    {
+        "setup": "What kind of magic do cows believe in?",
+        "delivery": "MOODOO.",
+        "category": "General",
+        "id": "92eab803-5d46-4b43-8f15-2e52ff538993"
+    },
+    {
+        "setup": "What kind of music do planets listen to?",
+        "delivery": "Nep-tunes.",
+        "category": "General",
+        "id": "28c8a143-f5ff-4742-8bb2-26eba9ce3b87"
+    },
+    {
+        "setup": "What kind of pants do ghosts wear?",
+        "delivery": "Boo jeans.",
+        "category": "General",
+        "id": "293911fb-0792-4e31-bb72-49ced0d768ec"
+    },
+    {
+        "setup": "What kind of tree fits in your hand?",
+        "delivery": "A palm tree!",
+        "category": "General",
+        "id": "5bb885f4-306a-4dc8-b839-d0536e2a9aeb"
+    },
+    {
+        "setup": "What lies at the bottom of the ocean and twitches?",
+        "delivery": "A nervous wreck.",
+        "category": "General",
+        "id": "8c4e3e20-ebf6-4d60-bbf5-3c01238079c3"
+    },
+    {
+        "setup": "What musical instrument is found in the bathroom?",
+        "delivery": "A tuba toothpaste.",
+        "category": "General",
+        "id": "5dbd6cf0-74c8-4370-9820-23ecbdf98238"
+    },
+    {
+        "setup": "What time did the man go to the dentist?",
+        "delivery": "Tooth hurt-y.",
+        "category": "General",
+        "id": "dd5783c2-df77-4266-8b08-8f715d872b83"
+    },
+    {
+        "setup": "What type of music do balloons hate?",
+        "delivery": "Pop music!",
+        "category": "General",
+        "id": "6a7c057f-1f8f-41b7-919c-0e0f4f3aaa5b"
+    },
+    {
+        "setup": "What was a more important invention than the first telephone?",
+        "delivery": "The second one.",
+        "category": "General",
+        "id": "b4c7cbaa-2c4e-4250-a004-462c358373ec"
+    },
+    {
+        "setup": "What was the pumpkin’s favorite sport?",
+        "delivery": "Squash.",
+        "category": "General",
+        "id": "9c2d7c81-4ecf-4a58-a7c8-31fd3a859c6a"
+    },
+    {
+        "setup": "What's black and white and read all over?",
+        "delivery": "The newspaper.",
+        "category": "General",
+        "id": "b652e3dd-be99-46f6-ab11-b0a67f72ef10"
+    },
+    {
+        "setup": "What's blue and not very heavy?",
+        "delivery": " Light blue.",
+        "category": "General",
+        "id": "d9190fe8-2a60-4443-ba38-aadedfb63aff"
+    },
+    {
+        "setup": "What's brown and sticky?",
+        "delivery": "A stick.",
+        "category": "General",
+        "id": "e21ee6d5-7212-40a3-ab16-9a873a555c5b"
+    },
+    {
+        "setup": "What's orange and sounds like a parrot?",
+        "delivery": "A Carrot.",
+        "category": "General",
+        "id": "c0ef38ee-c3ad-440b-bdb4-ec1810c9cec0"
+    },
+    {
+        "setup": "What's red and bad for your teeth?",
+        "delivery": "A Brick.",
+        "category": "General",
+        "id": "f2456d13-1fb4-4fda-8033-65a19d94f1f1"
+    },
+    {
+        "setup": "What's the best thing about elevator jokes?",
+        "delivery": "They work on so many levels.",
+        "category": "General",
+        "id": "82f73fc2-695b-4886-9eb5-4b35671f8fe5"
+    },
+    {
+        "setup": "What's the difference between a guitar and a fish?",
+        "delivery": "You can tune a guitar but you can't \"tuna\"fish!",
+        "category": "General",
+        "id": "9cc181f2-9cdb-4d83-b69d-f3d4a120038a"
+    },
+    {
+        "setup": "What's the difference between a hippo and a zippo?",
+        "delivery": "One is really heavy, the other is a little lighter.",
+        "category": "General",
+        "id": "b816417e-5bbc-4c17-a889-e3a906132e1c"
+    },
+    {
+        "setup": "What's the difference between a seal and a sea lion?",
+        "delivery": "An ion! ",
+        "category": "General",
+        "id": "31afadfa-4115-48fc-8a6a-e90fc0b649a4"
+    },
+    {
+        "setup": "What's the worst part about being a cross-eyed teacher?",
+        "delivery": "They can't control their pupils.",
+        "category": "General",
+        "id": "db9ad5b0-5e66-4e10-ace0-418e8849dd28"
+    },
+    {
+        "setup": "What's the worst thing about ancient history class?",
+        "delivery": "The teachers tend to Babylon.",
+        "category": "General",
+        "id": "7586c97a-e6cb-4e24-a502-6a7631d96899"
+    },
+    {
+        "setup": "What’s brown and sounds like a bell?",
+        "delivery": "Dung!",
+        "category": "General",
+        "id": "f3773364-7506-4db7-8a0a-f82f5dad07a2"
+    },
+    {
+        "setup": "What’s E.T. short for?",
+        "delivery": "He’s only got little legs.",
+        "category": "General",
+        "id": "52ff1133-8bd8-4e54-9ab6-8b3748895956"
+    },
+    {
+        "setup": "What’s Forest Gump’s Facebook password?",
+        "delivery": "1forest1",
+        "category": "General",
+        "id": "a0115e20-afd1-4bc4-bbe3-5f7a91a5816f"
+    },
+    {
+        "setup": "What’s the advantage of living in Switzerland?",
+        "delivery": "Well, the flag is a big plus.",
+        "category": "General",
+        "id": "0a2b612f-a2b9-440c-b0be-83821c5e01f3"
+    },
+    {
+        "setup": "What’s the difference between an African elephant and an Indian elephant?",
+        "delivery": "About 5000 miles.",
+        "category": "General",
+        "id": "567ff796-4a4c-4d45-89c9-0614bcc35fdb"
+    },
+    {
+        "setup": "When do doctors get angry?",
+        "delivery": "When they run out of patients.",
+        "category": "General",
+        "id": "901efb6a-ff25-4772-8601-f5b9528d0584"
+    },
+    {
+        "setup": "When does a joke become a dad joke?",
+        "delivery": "When it becomes apparent.",
+        "category": "General",
+        "id": "46d72bcb-cd96-474d-8d12-e6aca2abbc6d"
+    },
+    {
+        "setup": "When is a door not a door?",
+        "delivery": "When it's ajar.",
+        "category": "General",
+        "id": "774ded49-3861-4d3c-9d77-22fe77c901fb"
+    },
+    {
+        "setup": "Where did you learn to make ice cream?",
+        "delivery": "Sunday school.",
+        "category": "General",
+        "id": "f873ce58-6a0f-4350-8dea-0f2166475c67"
+    },
+    {
+        "setup": "Where do bees go to the bathroom?",
+        "delivery": " The BP station.",
+        "category": "General",
+        "id": "f554a420-8664-4c8d-adbd-ff3bc86685d9"
+    },
+    {
+        "setup": "Where do hamburgers go to dance?",
+        "delivery": "The meat-ball.",
+        "category": "General",
+        "id": "cd5af2f0-9191-41b6-8849-5c95e3fc6733"
+    },
+    {
+        "setup": "Where do rabbits go after they get married?",
+        "delivery": "On a bunny-moon.",
+        "category": "General",
+        "id": "73c601c7-59a4-42c5-bd00-c604459bb0e1"
+    },
+    {
+        "setup": "Where do sheep go to get their hair cut?",
+        "delivery": "The baa-baa shop.",
+        "category": "General",
+        "id": "5da2e31c-f1aa-4d17-a960-dfe4b18cc83b"
+    },
+    {
+        "setup": "Where do you learn to make banana splits?",
+        "delivery": "At sundae school.",
+        "category": "General",
+        "id": "55747b24-1ebd-4794-8497-47c15cf4a556"
+    },
+    {
+        "setup": "Where do young cows eat lunch?",
+        "delivery": "In the calf-ateria.",
+        "category": "General",
+        "id": "d69dc2b6-ba20-41dd-8120-bc12b894dbb8"
+    },
+    {
+        "setup": "Where does batman go to the bathroom?",
+        "delivery": "The batroom.",
+        "category": "General",
+        "id": "d3ba33cc-7fee-4b64-aa6a-255016f52ad3"
+    },
+    {
+        "setup": "Where does Fonzie like to go for lunch?",
+        "delivery": "Chick-Fil-Eyyyyyyyy.",
+        "category": "General",
+        "id": "352258b4-537a-49b5-943b-852c5d62855c"
+    },
+    {
+        "setup": "Where does Napoleon keep his armies?",
+        "delivery": "In his sleevies.",
+        "category": "General",
+        "id": "88c0eef2-b064-48d1-bd0b-01d2de364ba2"
+    },
+    {
+        "setup": "Where was the Declaration of Independence signed?",
+        "delivery": "At the bottom! ",
+        "category": "General",
+        "id": "5faa744d-9d44-4a7c-8f55-858bb597f502"
+    },
+    {
+        "setup": "Where’s the bin?",
+        "delivery": "I haven’t been anywhere!",
+        "category": "General",
+        "id": "4bbf1558-6959-49c7-99e8-593ab5ae6abe"
+    },
+    {
+        "setup": "Which side of the chicken has more feathers?",
+        "delivery": "The outside.",
+        "category": "General",
+        "id": "184a006d-02df-4b12-9881-cb03fc522c26"
+    },
+    {
+        "setup": "Who did the wizard marry?",
+        "delivery": "His ghoul-friend",
+        "category": "General",
+        "id": "ff4fa563-60d6-4335-967e-6e3cb8ed3096"
+    },
+    {
+        "setup": "Who is the coolest Doctor in the hospital?",
+        "delivery": "The hip Doctor!",
+        "category": "General",
+        "id": "0473ef1f-8a94-46f7-8e9c-b708bf361a5d"
+    },
+    {
+        "setup": "Why are fish easy to weigh?",
+        "delivery": "Because they have their own scales.",
+        "category": "General",
+        "id": "daab8419-9afe-4bd6-83c9-8c951fb138cb"
+    },
+    {
+        "setup": "Why are fish so smart?",
+        "delivery": "Because they live in schools!",
+        "category": "General",
+        "id": "51748cc9-62ba-41d3-a4e6-cab3f6a66b3b"
+    },
+    {
+        "setup": "Why are ghosts bad liars?",
+        "delivery": "Because you can see right through them!",
+        "category": "General",
+        "id": "26e4d2ee-34f8-4a27-9249-6cb1a26efc65"
+    },
+    {
+        "setup": "Why are graveyards so noisy?",
+        "delivery": "Because of all the coffin.",
+        "category": "General",
+        "id": "ac341b92-6c10-49db-8748-f4ac88a9f968"
+    },
+    {
+        "setup": "Why are mummys scared of vacation?",
+        "delivery": "They're afraid to unwind.",
+        "category": "General",
+        "id": "14aaf3a8-647f-46a2-b6d0-fc59410bdbbb"
+    },
+    {
+        "setup": "Why are oranges the smartest fruit?",
+        "delivery": "Because they are made to concentrate. ",
+        "category": "General",
+        "id": "0000149b-b245-482a-b003-d0925cc8a5b7"
+    },
+    {
+        "setup": "Why are pirates called pirates?",
+        "delivery": "Because they arrr!",
+        "category": "General",
+        "id": "b2ec43dd-512b-4249-892c-e4030713a9d7"
+    },
+    {
+        "setup": "Why are skeletons so calm?",
+        "delivery": "Because nothing gets under their skin.",
+        "category": "General",
+        "id": "597b91b9-9d4a-48b2-b8fa-a9c24c90332a"
+    },
+    {
+        "setup": "Why can't a bicycle stand on its own?",
+        "delivery": "It's two-tired.",
+        "category": "General",
+        "id": "7fa0b647-2eb4-4e0a-bb63-254a0223915a"
+    },
+    {
+        "setup": "Why can't you use \"Beef stew\"as a password?",
+        "delivery": "Because it's not stroganoff.",
+        "category": "General",
+        "id": "f17d4345-4294-44c9-8634-d60e5b8dfc59"
+    },
+    {
+        "setup": "Why can't your nose be 12 inches long?",
+        "delivery": "Because then it'd be a foot!",
+        "category": "General",
+        "id": "ca9a9f47-aab5-4b7a-a904-e9552498e98a"
+    },
+    {
+        "setup": "Why can’t you hear a pterodactyl go to the bathroom?",
+        "delivery": "The p is silent.",
+        "category": "General",
+        "id": "36597acb-0213-48e8-baa0-6c2122d9f034"
+    },
+    {
+        "setup": "Why couldn't the kid see the pirate movie?",
+        "delivery": "Because it was rated arrr!",
+        "category": "General",
+        "id": "a4ec603c-1315-48f5-9d1a-446111c0ab58"
+    },
+    {
+        "setup": "Why couldn't the lifeguard save the hippie?",
+        "delivery": "He was too far out, man.",
+        "category": "General",
+        "id": "4424fc38-b893-46df-81e3-5d3e36f9f70a"
+    },
+    {
+        "setup": "Why did Dracula lie in the wrong coffin?",
+        "delivery": "He made a grave mistake.",
+        "category": "General",
+        "id": "7c40c6b1-a065-4763-8654-6d5f7e43d0d0"
+    },
+    {
+        "setup": "Why did Sweden start painting barcodes on the sides of their battleships?",
+        "delivery": "So they could Scandinavian.",
+        "category": "General",
+        "id": "60ca0b7f-d2c5-4c0c-a1d8-405a909ca860"
+    },
+    {
+        "setup": "Why did the A go to the bathroom and come out as an E?",
+        "delivery": "Because he had a vowel movement.",
+        "category": "General",
+        "id": "1160b117-5b5b-49af-934b-1f5708f7b383"
+    },
+    {
+        "setup": "Why did the barber win the race?",
+        "delivery": "He took a short cut.",
+        "category": "General",
+        "id": "5f04ae0a-23d7-41d2-ae62-a1da07903598"
+    },
+    {
+        "setup": "Why did the belt go to prison?",
+        "delivery": "He held up a pair of pants!",
+        "category": "General",
+        "id": "a2a91038-8a38-4056-9451-0938e7dc4ae4"
+    },
+    {
+        "setup": "Why did the burglar hang his mugshot on the wall?",
+        "delivery": "To prove that he was framed!",
+        "category": "General",
+        "id": "9c054941-9e36-4cb4-a3a6-682321d44eee"
+    },
+    {
+        "setup": "Why did the chicken get a penalty?",
+        "delivery": "For fowl play.",
+        "category": "General",
+        "id": "7e9959ad-7af8-499b-b81f-3fc2bb86e36b"
+    },
+    {
+        "setup": "Why did the Clydesdale give the pony a glass of water?",
+        "delivery": "Because he was a little horse!",
+        "category": "General",
+        "id": "0256fa96-9bc8-4717-94f5-3cb801a2b203"
+    },
+    {
+        "setup": "Why did the coffee file a police report?",
+        "delivery": "It got mugged.",
+        "category": "General",
+        "id": "6fa0872a-746e-4cc7-9429-1d3343d2d37b"
+    },
+    {
+        "setup": "Why did the cookie cry?",
+        "delivery": "Because his mother was a wafer so long",
+        "category": "General",
+        "id": "c2e0aad1-4f49-4472-bc58-5fb5072e53d6"
+    },
+    {
+        "setup": "Why did the cookie cry?",
+        "delivery": "It was feeling crumby.",
+        "category": "General",
+        "id": "d061177a-1fb0-4d9f-ae32-f65c6b25b250"
+    },
+    {
+        "setup": "Why did the cowboy have a weiner dog?",
+        "delivery": "Somebody told him to get a long little doggy.",
+        "category": "General",
+        "id": "f0b1156e-bbd5-4640-9640-1ce1d8aaf52c"
+    },
+    {
+        "setup": "Why did the fireman wear red, white, and blue suspenders?",
+        "delivery": "To hold his pants up.",
+        "category": "General",
+        "id": "8ce604c1-7262-4540-88fa-68dbc87a3441"
+    },
+    {
+        "setup": "Why did the girl smear peanut butter on the road?",
+        "delivery": "To go with the traffic jam.",
+        "category": "General",
+        "id": "24285afc-7dc1-43c2-88c6-018984eff656"
+    },
+    {
+        "setup": "Why did the half blind man fall in the well?",
+        "delivery": "Because he couldn't see that well!",
+        "category": "General",
+        "id": "5c52e828-ac8e-4a8a-8180-d52b6c23a6c6"
+    },
+    {
+        "setup": "Why did the house go to the doctor?",
+        "delivery": "It was having window panes.",
+        "category": "General",
+        "id": "1732af02-39ac-493b-bf34-aa2e2f3a3937"
+    },
+    {
+        "setup": "Why did the kid cross the playground?",
+        "delivery": "To get to the other slide.",
+        "category": "General",
+        "id": "dec9d932-6257-40a1-9150-29b3f0dc490d"
+    },
+    {
+        "setup": "Why did the man put his money in the freezer?",
+        "delivery": "He wanted cold hard cash!",
+        "category": "General",
+        "id": "c44a42dc-b9c9-4239-a561-baea1d9f7dda"
+    },
+    {
+        "setup": "Why did the man run around his bed?",
+        "delivery": "Because he was trying to catch up on his sleep!",
+        "category": "General",
+        "id": "af53fd0e-ad4d-4ecf-b592-8577de4e34df"
+    },
+    {
+        "setup": "Why did the melons plan a big wedding?",
+        "delivery": "Because they cantaloupe!",
+        "category": "General",
+        "id": "7bfd44f0-59fa-4c18-8c5d-5ccc8de13855"
+    },
+    {
+        "setup": "Why did the octopus beat the shark in a fight?",
+        "delivery": "Because it was well armed.",
+        "category": "General",
+        "id": "e96ce5f1-35dd-4321-9abe-34c5f9c2f800"
+    },
+    {
+        "setup": "Why did the opera singer go sailing?",
+        "delivery": "They wanted to hit the high Cs.",
+        "category": "General",
+        "id": "27c04e16-b2cc-422b-b646-087cf946aa5b"
+    },
+    {
+        "setup": "Why did the scarecrow win an award?",
+        "delivery": "Because he was outstanding in his field.",
+        "category": "General",
+        "id": "448f945e-87c2-4732-a92c-c25a0356afd7"
+    },
+    {
+        "setup": "Why did the tomato blush?",
+        "delivery": "Because it saw the salad dressing.",
+        "category": "General",
+        "id": "152fb51f-c76e-4867-8a17-eab22d579426"
+    },
+    {
+        "setup": "Why did the tree go to the dentist?",
+        "delivery": "It needed a root canal.",
+        "category": "General",
+        "id": "8af07d82-f2dc-4892-9a08-ac1e298ad547"
+    },
+    {
+        "setup": "Why did the worker get fired from the orange juice factory?",
+        "delivery": "Lack of concentration.",
+        "category": "General",
+        "id": "e94cf55c-3c59-4b9e-97d2-e4ad40c1a923"
+    },
+    {
+        "setup": "Why didn't the number 4 get into the nightclub?",
+        "delivery": "Because he is 2 square.",
+        "category": "General",
+        "id": "29653e04-662a-4985-a181-db6863e7d53a"
+    },
+    {
+        "setup": "Why didn’t the orange win the race?",
+        "delivery": "It ran out of juice.",
+        "category": "General",
+        "id": "8f9c20b0-3a6d-440f-b4c3-00f99d75dd62"
+    },
+    {
+        "setup": "Why didn’t the skeleton cross the road?",
+        "delivery": "Because he had no guts.",
+        "category": "General",
+        "id": "0ad9bf35-62da-4e4e-ab3c-ca99a5fa23f3"
+    },
+    {
+        "setup": "Why do bananas have to put on sunscreen before they go to the beach?",
+        "delivery": "Because they might peel!",
+        "category": "General",
+        "id": "aecb28b6-8db7-46f6-91bf-8c7dc7167751"
+    },
+    {
+        "setup": "Why do bears have hairy coats?",
+        "delivery": "Fur protection.",
+        "category": "General",
+        "id": "17700ae1-70fc-433b-9ed2-26254bfc7dad"
+    },
+    {
+        "setup": "Why do bees have sticky hair?",
+        "delivery": "Because they use honey combs!",
+        "category": "General",
+        "id": "ac55adfa-1e66-40b4-bdfd-52366c79f24e"
+    },
+    {
+        "setup": "Why do bees hum?",
+        "delivery": "Because they don't know the words.",
+        "category": "General",
+        "id": "93fd0c3a-f0d1-4e5b-8358-c7d3966373ef"
+    },
+    {
+        "setup": "Why do birds fly south for the winter?",
+        "delivery": "Because it's too far to walk.",
+        "category": "General",
+        "id": "af698cd8-ebc7-4dc0-9688-e82ea0f85feb"
+    },
+    {
+        "setup": "Why do choirs keep buckets handy?",
+        "delivery": "So they can carry their tune",
+        "category": "General",
+        "id": "93008ce5-68c3-465f-9dc1-cb45a343efce"
+    },
+    {
+        "setup": "Why do crabs never give to charity?",
+        "delivery": "Because they’re shellfish.",
+        "category": "General",
+        "id": "b7b74d94-7290-4c85-8317-6e9e505e85d1"
+    },
+    {
+        "setup": "Why do ducks make great detectives?",
+        "delivery": "They always quack the case.",
+        "category": "General",
+        "id": "d6945488-ef4c-4a16-a4f6-d83d04107859"
+    },
+    {
+        "setup": "Why do mathematicians hate the U.S.?",
+        "delivery": "Because it's indivisible.",
+        "category": "General",
+        "id": "6c372099-94df-47a3-8f01-cd1066d11574"
+    },
+    {
+        "setup": "Why do pirates not know the alphabet?",
+        "delivery": "They always get stuck at \"C\".",
+        "category": "General",
+        "id": "bd692929-4fb6-43e0-abf3-2358c75ad7df"
+    },
+    {
+        "setup": "Why do pumpkins sit on people’s porches?",
+        "delivery": "They have no hands to knock on the door.",
+        "category": "General",
+        "id": "d0e3bacc-d242-45e5-8184-c83001d25abb"
+    },
+    {
+        "setup": "Why do scuba divers fall backwards into the water?",
+        "delivery": "Because if they fell forwards they’d still be in the boat.",
+        "category": "General",
+        "id": "6ae89465-0deb-4464-80c5-3a9dbfd9474f"
+    },
+    {
+        "setup": "Why do trees seem suspicious on sunny days?",
+        "delivery": "Dunno, they're just a bit shady.",
+        "category": "General",
+        "id": "38783f17-a90b-4f23-99a8-f9aa8ead790a"
+    },
+    {
+        "setup": "Why do valley girls hang out in odd numbered groups?",
+        "delivery": "Because they can't even.",
+        "category": "General",
+        "id": "26311c3b-b33f-49a1-ae7b-f6f1ed63c67e"
+    },
+    {
+        "setup": "Why do wizards clean their teeth three times a day?",
+        "delivery": "To prevent bat breath!",
+        "category": "General",
+        "id": "a7c1a358-23cf-4f7d-a2c4-96c0cfcd2ecf"
+    },
+    {
+        "setup": "Why do you never see elephants hiding in trees?",
+        "delivery": "Because they're so good at it.",
+        "category": "General",
+        "id": "e9b89b7c-82ae-4722-8065-378d1833bff9"
+    },
+    {
+        "setup": "Why does a chicken coop only have two doors?",
+        "delivery": "Because if it had four doors it would be a chicken sedan.",
+        "category": "General",
+        "id": "1619c683-cddb-44a0-99eb-667c37bc877f"
+    },
+    {
+        "setup": "Why does a Moon-rock taste better than an Earth-rock?",
+        "delivery": "Because it's a little meteor.",
+        "category": "General",
+        "id": "dc961b9b-88a6-4be2-ab98-cefa0d8f15b8"
+    },
+    {
+        "setup": "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?",
+        "delivery": "Because there’s a Shortstop in between!",
+        "category": "General",
+        "id": "97486675-b0ab-4f84-b949-728d9c8ad440"
+    },
+    {
+        "setup": "Why does Norway have barcodes on their battleships?",
+        "delivery": "So when they get back to port, they can Scandinavian.",
+        "category": "General",
+        "id": "de2e5860-be3c-472d-9a2f-1beebad43661"
+    },
+    {
+        "setup": "Why does Superman get invited to dinners?",
+        "delivery": "Because he is a Supperhero.",
+        "category": "General",
+        "id": "219b2896-d28a-4806-bef5-26992eae3cf9"
+    },
+    {
+        "setup": "Why does Waldo only wear stripes?",
+        "delivery": "Because he doesn't want to be spotted.",
+        "category": "General",
+        "id": "35a48d9a-6e8f-4575-be5c-d6cb67663794"
+    },
+    {
+        "setup": "Knock-knock.",
+        "delivery": "A race condition. Who is there?",
+        "category": "Programming",
+        "id": "1b5dc207-3a9a-4b9d-b5f9-5d935483d4bc"
+    },
+    {
+        "setup": "What's the best part about TCP jokes?",
+        "delivery": "I get to keep telling them until you get them.",
+        "category": "Programming",
+        "id": "486c91e3-4d54-4e4e-a51a-c4bf829e8284"
+    },
+    {
+        "setup": "A programmer puts two glasses on his bedside table before going to sleep.",
+        "delivery": "A full one, in case he gets thirsty, and an empty one, in case he doesn’t.",
+        "category": "Programming",
+        "id": "5abcbcfd-4d31-4c02-8a9b-139b05f0f03d"
+    },
+    {
+        "setup": "There are 10 kinds of people in this world.",
+        "delivery": "Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.",
+        "category": "Programming",
+        "id": "f34dedde-937e-48de-8306-4deecba74978"
+    },
+    {
+        "setup": "Two guys walk into a bar . . .",
+        "delivery": "The first guy says \"Ouch!\" and the second says \"Yeah, I didn't see it either.\"",
+        "category": "General",
+        "id": "8b106556-1998-4bf0-a7af-8e5d7f5e2527"
+    },
+    {
+        "setup": "What did the router say to the doctor?",
+        "delivery": "It hurts when IP.",
+        "category": "Programming",
+        "id": "ae6d123a-5450-44d6-bbbd-69d9af8d9a11"
+    },
+    {
+        "setup": "An IPv6 packet is walking out of the house.",
+        "delivery": "He goes nowhere.",
+        "category": "Programming",
+        "id": "c09321db-ed5c-4b30-ad17-3a04519ecea8"
+    },
+    {
+        "setup": "A DHCP packet walks into a bar and asks for a beer.",
+        "delivery": "Bartender says, \"here, but I’ll need that back in an hour!\"",
+        "category": "Programming",
+        "id": "1b750d10-1163-4cbc-a344-542351ad746f"
+    },
+    {
+        "setup": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
+        "delivery": "They couldn't find a table.",
+        "category": "Programming",
+        "id": "bf7dd769-9d82-4fa7-9d34-0a00200c74b9"
+    },
+    {
+        "setup": "I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’",
+        "delivery": "I couldn’t turn it down.",
+        "category": "General",
+        "id": "3556187e-1b63-42ec-8df9-a9ca01da6502"
+    },
+    {
+        "setup": "My older brother always tore the last pages of my comic books, and never told me why.",
+        "delivery": "I had to draw my own conclusions.",
+        "category": "General",
+        "id": "d648e724-4f7a-482b-8db2-41fc4d8f5770"
+    },
+    {
+        "setup": "What is the difference between the Constitutions of the USA and the USSR? Don't both of them guarantee freedom of speech?",
+        "delivery": "Yes, but the Constitution of the USA also guarantees freedom after the speech.",
+        "category": "Misc",
+        "id": "5e67ee6d-28a1-4b7b-a7f8-9893d2f72776"
+    },
+    {
+        "setup": "What's green and smells like pork?",
+        "delivery": "Kermit's Fingers.",
+        "category": "Misc",
+        "id": "441fa0cd-49e9-4c5c-a322-0a5d49ad2d51"
+    },
+    {
+        "setup": "One time I masturbated on a plane.",
+        "delivery": "I called it \"highjacking\".",
+        "category": "Pun",
+        "id": "7207bc93-2c8d-40a3-b81e-7e0c1270bef5"
+    },
+    {
+        "setup": "What is the difference between acne and a catholic priest?",
+        "delivery": "Acne usually comes on a boys face after he turns 12.",
+        "category": "Dark",
+        "id": "225c5860-de72-4aa5-b0b3-f9beb3e08c1a"
+    },
+    {
+        "setup": "How do you generate a random string?",
+        "delivery": "Put a Windows user in front of Vim and tell him to exit.",
+        "category": "Programming",
+        "id": "01182835-352b-45ea-b303-d67fa4ea3ba8"
+    },
+    {
+        "setup": "Went to the doctors for a prostate exam.\nDuring the exam he said it's not unusual to become aroused or even ejaculate.",
+        "delivery": "But still, I wish he hadn't.",
+        "category": "Misc",
+        "id": "68c9f231-521b-4288-8271-13d4be2360e3"
+    },
+    {
+        "setup": "How do you know God is a shitty programmer?",
+        "delivery": "He wrote the OS for an entire universe, but didn't leave a single useful comment.",
+        "category": "Programming",
+        "id": "05cceeec-41f6-4af1-9f3a-6c870961091c"
+    },
+    {
+        "setup": "My employer came running to me and said, \"I was looking for you all day! Where the hell have you been?\"",
+        "delivery": "I replied, \"Good employees are hard to find.\"",
+        "category": "Pun",
+        "id": "5c6d154d-1b12-4e17-bc94-5adb1d5294f7"
+    },
+    {
+        "setup": "I walked into a bar once.",
+        "delivery": "It really hurt my head.",
+        "category": "Pun",
+        "id": "c8dcb703-7a97-44d3-8895-130d5d13803b"
+    },
+    {
+        "setup": "I was feeling depressed, my wife put her hand on my back and said \"Earth.\"",
+        "delivery": "It meant the world to me.",
+        "category": "Pun",
+        "id": "d80a99cf-1bd3-4a2c-88ad-6b1ff6cae71a"
+    },
+    {
+        "setup": "What do 9 out of 10 people enjoy?",
+        "delivery": "Gang rape.",
+        "category": "Dark",
+        "id": "cfd1cc11-fbc6-4e17-90b0-d28fedf5b102"
+    },
+    {
+        "setup": "What do you call crystal clear urine?",
+        "delivery": "1080p.",
+        "category": "Pun",
+        "id": "fd75b16e-b752-4d03-98d1-e8ea0ce42434"
+    },
+    {
+        "setup": "What does Santa suffer from if he gets stuck in a chimney?",
+        "delivery": "Claustrophobia!",
+        "category": "Christmas",
+        "id": "37c9cf55-3178-4ba2-858f-ba70ac13589e"
+    },
+    {
+        "setup": "Why does Beyonce sing \"to the left, to the left\"?",
+        "delivery": "Because women don't have rights.",
+        "category": "Misc",
+        "id": "f7484a25-e3e4-413e-bb63-66c6c552b4dc"
+    },
+    {
+        "setup": "Why did the chicken cross the road, roll in the mud and cross the road again?",
+        "delivery": "He was a dirty double-crosser!",
+        "category": "Pun",
+        "id": "d35ce6ab-be25-486e-b8a0-a661060277c1"
+    },
+    {
+        "setup": "My neighbor is a 90 year old with Alzheimer's, I see him every morning and he asks me If I've seen his wife.\nEvery day I have to tell this poor man that his wife died 20 years ago.\nI could have moved to another house or even ignore his question.",
+        "delivery": "But the look of joy in his eyes whenever I answer him is worth the world.",
+        "category": "Misc",
+        "id": "47b686e5-0ded-476c-b04d-aea4f8df2988"
+    },
+    {
+        "setup": "What is the difference between a pizza and a black man?",
+        "delivery": "A pizza can feed a family of five.",
+        "category": "Dark",
+        "id": "0ebcd981-7665-4b23-a8f1-0d22bba51e22"
+    },
+    {
+        "setup": "You see, mountains aren't just funny.",
+        "delivery": "They are hill areas.",
+        "category": "Pun",
+        "id": "3172d8dc-f287-4f59-98d3-9f9ba73f61a5"
+    },
+    {
+        "setup": "My girlfriend left me because I have a fetish for touching pasta.",
+        "delivery": "I'm feeling cannelloni now. :'(",
+        "category": "Pun",
+        "id": "be0345d7-c4b0-4d6f-9657-e1fa74aafae9"
+    },
+    {
+        "setup": "The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.",
+        "delivery": "She still isn't talking to me.",
+        "category": "Pun",
+        "id": "278c3410-4ab6-4c7b-950d-4ca7f4b261e6"
+    },
+    {
+        "setup": "I won the lottery today!",
+        "delivery": "Well, I only got the first two numbers, but my lawyers are working on having them stop the count.",
+        "category": "Misc",
+        "id": "ae306647-e434-4587-8b56-46ab463c8300"
+    },
+    {
+        "setup": "Everyone says that Hitler really loved animals.",
+        "delivery": "Then why did he kill 6 million of them?",
+        "category": "Dark",
+        "id": "e8ea5579-7b63-4941-986f-021d65550380"
+    },
+    {
+        "setup": "If I make you breakfast in bed, a simple thank you is all I need.",
+        "delivery": "Not all this \"How the fuck did you get in my house?!\" nonsense.",
+        "category": "Misc",
+        "id": "d9f07b98-5a91-46c2-8ad4-c0c7c7e7b3fe"
+    },
+    {
+        "setup": "Arguing with a woman is like reading a software's license agreement.",
+        "delivery": "In the end you ignore everything and click \"I agree\".",
+        "category": "Misc",
+        "id": "eb1ddddf-3303-4bcb-b9be-54bae37fa1a5"
+    },
+    {
+        "setup": "My first high-school football game was a lot like my first time having sex...",
+        "delivery": "I was bloody and sore at the end, but at least my dad came.",
+        "category": "Dark",
+        "id": "a52f9de1-ae3e-4810-a16b-20d194285a7e"
+    },
+    {
+        "setup": "Thank you student loans for getting me through college.",
+        "delivery": "I don't think I'll ever be able to repay you.",
+        "category": "Pun",
+        "id": "5e0c9d82-b20c-47b7-afe8-3ea274474763"
+    },
+    {
+        "setup": "Why did the functional programmer get thrown out of school?",
+        "delivery": "Because he refused to take classes.",
+        "category": "Programming",
+        "id": "0d989592-a0f5-4fdd-b805-50f419710af1"
+    },
+    {
+        "setup": "I used to love to tell dad jokes.",
+        "delivery": "Dad, come back...",
+        "category": "Misc",
+        "id": "005e6d40-c905-49d6-bfbb-6df4d4391e23"
+    },
+    {
+        "setup": "What happens when you don't obey the KGB?",
+        "delivery": "You get Putin jail.",
+        "category": "Pun",
+        "id": "d2fbef5c-3d85-48ca-9e31-e42b0d9a26f4"
+    },
+    {
+        "setup": "Hey, wanna hear a joke?",
+        "delivery": "Parsing HTML with regex.",
+        "category": "Programming",
+        "id": "8b5b66c2-e70a-4f87-96c8-749371b2bbe5"
+    },
+    {
+        "setup": "Say what you want about pedophiles...",
+        "delivery": "But at least they drive slowly through the school zones.",
+        "category": "Dark",
+        "id": "a855e5f7-97ed-48fd-80cd-36a84ab19078"
+    },
+    {
+        "setup": "What do you call a deer with no eyes?",
+        "delivery": "No eye deer.",
+        "category": "Pun",
+        "id": "cc065991-379e-43bc-8b0d-922df4ce3d56"
+    },
+    {
+        "setup": "Why do Jewish women prefer circumcised men?",
+        "delivery": "Cause they won't take anything until it's atleast 10% off.",
+        "category": "Misc",
+        "id": "75b1a688-3926-4f00-b35d-01aa7f79c78a"
+    },
+    {
+        "setup": "What kind of bees produce milk?",
+        "delivery": "Boo-Bees.",
+        "category": "Pun",
+        "id": "56b9ce9c-84de-4c11-8353-5369a7ae6ab6"
+    },
+    {
+        "setup": "What do you call a pile of kittens?",
+        "delivery": "A meowntain.",
+        "category": "Pun",
+        "id": "f07bdf7f-448f-4074-98b1-7a2f640e4b2a"
+    },
+    {
+        "setup": "What's grey and comes in pints?",
+        "delivery": "An elephant.",
+        "category": "Pun",
+        "id": "44d31220-9c05-47d1-b2b0-d85bd5d6c2f3"
+    },
+    {
+        "setup": "Why do Hong Kong cops like to go to work early?",
+        "delivery": "To beat the crowd.",
+        "category": "Pun",
+        "id": "d7e3e3f7-cd4b-436c-acfe-537380616d21"
+    },
+    {
+        "setup": "Why are cats so good at video games?",
+        "delivery": "They have nine lives.",
+        "category": "Misc",
+        "id": "6ad5f288-4be3-498e-a1ef-1f7505c9bac5"
+    },
+    {
+        "setup": "Why are modern programming languages so materialistic?",
+        "delivery": "Because they are object-oriented.",
+        "category": "Programming",
+        "id": "6b07c309-5e41-4ed4-bee6-62dbc147bc44"
+    },
+    {
+        "setup": "How does a black woman fight crime?",
+        "delivery": "She has an abortion.",
+        "category": "Dark",
+        "id": "0d45c4fb-e83d-4a3c-bea2-06f5ed69e520"
+    },
+    {
+        "setup": "Why do programmers prefer using the dark mode?",
+        "delivery": "Because light attracts bugs.",
+        "category": "Programming",
+        "id": "6d81ce89-b286-4bac-a37b-d45a70bf7cfb"
+    },
+    {
+        "setup": "Why are there no pharmacies in Africa?",
+        "delivery": "Because you can't use medicine on an empty stomach.",
+        "category": "Dark",
+        "id": "2fc33f7a-676e-4b27-88e1-002d2cba671d"
+    },
+    {
+        "setup": "What do you call a kid with no arms and an eyepatch?",
+        "delivery": "Names.",
+        "category": "Dark",
+        "id": "283b87fd-6b6d-4137-bcc0-df988b3a7d73"
+    },
+    {
+        "setup": "What's the difference between an in-law and an outlaw?",
+        "delivery": "An outlaw is wanted.",
+        "category": "Misc",
+        "id": "cef97aca-bb82-449d-9cd3-71765637d432"
+    },
+    {
+        "setup": "Who is Santa's favourite singer?",
+        "delivery": "Elf-is Presley!",
+        "category": "Christmas",
+        "id": "c783dae1-9745-4721-a185-238f1593a08a"
+    },
+    {
+        "setup": "What is a dying programmer's last program?",
+        "delivery": "Goodbye, world!",
+        "category": "Programming",
+        "id": "4992e56e-3897-431b-af09-ac06d2af1622"
+    },
+    {
+        "setup": "I told my wife to shave her pussy.",
+        "delivery": "I woke up bald.",
+        "category": "Misc",
+        "id": "a893b61e-2f30-4d04-90c0-d4736b8d1321"
+    },
+    {
+        "setup": "What's the difference between a baby and a pile of sand?",
+        "delivery": "You can't pick a pile of sand up with a pitchfork.",
+        "category": "Dark",
+        "id": "e71339f4-af3b-4029-a6ca-9081a713730f"
+    },
+    {
+        "setup": "Mickey Mouse and Minnie Mouse are in the divorce court.\n\"Mickey\", the judge says, \"I'm sorry. I can't grant you a divorce on the grounds of insanity. Minnie seems quite sane to me.\"",
+        "delivery": "\"I didn't say she was insane\", exclaims Mickey.\n\"I said she was fucking Goofy.\"",
+        "category": "Pun",
+        "id": "96a84581-26de-4263-a79f-5a8d094770b5"
+    },
+    {
+        "setup": "Programming is like sex.",
+        "delivery": "Make one mistake and you end up supporting it for the rest of your life.",
+        "category": "Programming",
+        "id": "759bde1f-7f8e-45ba-a839-826f4eb63eee"
+    },
+    {
+        "setup": "How did you make your friend rage?",
+        "delivery": "I implemented a greek question mark in his JavaScript code.",
+        "category": "Programming",
+        "id": "cc345b3f-d9ae-4f52-a9e6-8665395d8d72"
+    },
+    {
+        "setup": "Why do they call it hyper terminal?",
+        "delivery": "Too much Java.",
+        "category": "Programming",
+        "id": "6d06a3c6-73e1-487c-aa27-76084ec39608"
+    },
+    {
+        "setup": "I'm sure good looking lesbians look at fat lesbians and give them no chance.",
+        "delivery": "Until they see their fingers.",
+        "category": "Misc",
+        "id": "68b27c85-e216-4a33-82b8-c2f8d5fdfbdf"
+    },
+    {
+        "setup": "What do you call a deaf gynecologist?",
+        "delivery": "A lip reader.",
+        "category": "Pun",
+        "id": "26f31923-5d94-4ffa-ac80-3d9d151d0afe"
+    },
+    {
+        "setup": "Why was the river rich?",
+        "delivery": "Because it had two banks.",
+        "category": "Misc",
+        "id": "37112fc6-c438-4043-b69e-15ee8ab0aea7"
+    },
+    {
+        "setup": "The past, the present and the future walk into a bar.",
+        "delivery": "It was tense.",
+        "category": "Pun",
+        "id": "8b9e69cc-5a4e-4fba-9035-14abf8edd257"
+    },
+    {
+        "setup": "What is the least spoken language in the world?",
+        "delivery": "Sign language.",
+        "category": "Misc",
+        "id": "4b6ebc30-5cfe-438f-838a-1cbf81960262"
+    },
+    {
+        "setup": "Dark humor is like cancer.",
+        "delivery": "It's more funny when children get it.",
+        "category": "Dark",
+        "id": "719c1e13-0f9b-468d-aa71-91e82ee70a20"
+    },
+    {
+        "setup": "To prove he was right, the flat-earther walked to the end of the Earth.",
+        "delivery": "He eventually came around.",
+        "category": "Pun",
+        "id": "a17f6434-06d7-4ea5-83a2-21e897ecf028"
+    },
+    {
+        "setup": "I just got fired from my job at the keyboard factory.",
+        "delivery": "They told me I wasn't putting in enough shifts.",
+        "category": "Pun",
+        "id": "2d77fddf-3e0f-47ed-ba22-823aa89bfeb9"
+    },
+    {
+        "setup": "Why do German showers have 11 holes?",
+        "delivery": "Because Jews only have 10 fingers.",
+        "category": "Dark",
+        "id": "57885b5d-f3f5-4060-baf2-8f9a11333bbb"
+    },
+    {
+        "setup": "How did the programmer die in the shower?",
+        "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
+        "category": "Programming",
+        "id": "a2b3a096-07e2-4d2d-bd09-0252f18d3568"
+    },
+    {
+        "setup": "The gas Argon walks into a bar.\nThe barkeeper says \"What would you like to drink?\"",
+        "delivery": "But Argon doesn't react.",
+        "category": "Pun",
+        "id": "1be012a8-848e-42d1-9215-cf50d11e5620"
+    },
+    {
+        "setup": "Which part of the hospital has the least privacy?",
+        "delivery": "The ICU.",
+        "category": "Pun",
+        "id": "6b113610-59e4-44b9-b691-d93a981f4894"
+    },
+    {
+        "setup": "Why does the size of the snack not matter to a giraffe?",
+        "delivery": "Because even a little bit goes a long way.",
+        "category": "Pun",
+        "id": "57b1be7c-3398-49d4-b848-b197fc11195d"
+    },
+    {
+        "setup": "Why didn't the skeleton go for prom?",
+        "delivery": "Because it had nobody.",
+        "category": "Spooky",
+        "id": "6541c179-ba57-4466-b2e8-872895bdce6e"
+    },
+    {
+        "setup": "I stayed up all night wondering where the sun went.",
+        "delivery": "Then it dawned on me.",
+        "category": "Pun",
+        "id": "9c1417ab-aa82-4458-b3f7-529a3aa5478d"
+    },
+    {
+        "setup": "What is the most used language in programming?",
+        "delivery": "Profanity.",
+        "category": "Programming",
+        "id": "b305c1b6-b789-4c35-913c-c9bb552e26fb"
+    },
+    {
+        "setup": "Why does Dr. Pepper come in a bottle?",
+        "delivery": "His wife is dead.",
+        "category": "Dark",
+        "id": "8f521c4f-14f9-469f-874f-c60ebf56a662"
+    },
+    {
+        "setup": "What's the difference between Harry Potter and the jews?",
+        "delivery": "Harry escaped the chamber.",
+        "category": "Dark",
+        "id": "d9aa7d82-689b-4009-9220-7bfc1ff1ad37"
+    },
+    {
+        "setup": "What do you use to blindfold an Asian?",
+        "delivery": "Floss.",
+        "category": "Misc",
+        "id": "c06deca1-a7c4-42e8-a288-d05e55f9350f"
+    },
+    {
+        "setup": "What says Oh Oh Oh?",
+        "delivery": "Santa walking backwards!",
+        "category": "Christmas",
+        "id": "fb3ee86a-9d97-4144-8214-685ac1878b6d"
+    },
+    {
+        "setup": "What did the cell say when his sister cell stepped on his foot?",
+        "delivery": "Mitosis.",
+        "category": "Pun",
+        "id": "0951fa07-82af-4ba1-9be0-95686f30be8d"
+    },
+    {
+        "setup": "Why is every gender equality officer female?",
+        "delivery": "Because it's cheaper.",
+        "category": "Misc",
+        "id": "c771cc9a-5f57-4f53-8a97-2a922741cec8"
+    },
+    {
+        "setup": "Why are Assembly programmers always soaking wet?",
+        "delivery": "They work below C-level.",
+        "category": "Programming",
+        "id": "0e504e1b-8019-4c24-8e72-675fb5c1d2c8"
+    },
+    {
+        "setup": "Why did the Python data scientist get arrested at customs?",
+        "delivery": "She was caught trying to import pandas!",
+        "category": "Programming",
+        "id": "ba75936c-fe07-45c6-9f9a-aef2627bab8e"
+    },
+    {
+        "setup": "How will Christmas dinner be different after Brexit?",
+        "delivery": "No Brussels!",
+        "category": "Christmas",
+        "id": "adcfd150-5b4e-4c80-8e15-c19b9f58d052"
+    },
+    {
+        "setup": "Why was the mushroom always invited to parties?",
+        "delivery": "Cause he's a fungi.",
+        "category": "Misc",
+        "id": "34b02d92-f6f0-490b-9dd5-7b37be9c2b42"
+    },
+    {
+        "setup": "I like my girls how I like my COVID.",
+        "delivery": "19 and easily spread.",
+        "category": "Misc",
+        "id": "e96d7a20-0829-4b46-ae7a-9dbd9db6f9b6"
+    },
+    {
+        "setup": "Why do front end developers eat lunch alone?",
+        "delivery": "Because they don't know how to join tables.",
+        "category": "Pun",
+        "id": "99d3f169-2c4e-4e4a-afed-beb6484aeb15"
+    },
+    {
+        "setup": "People are like jellybeans and licorice:",
+        "delivery": "No one likes the blacks.",
+        "category": "Dark",
+        "id": "0eb1a6f8-d6ac-431d-b774-131585695653"
+    },
+    {
+        "setup": "Why does Santa go down the chimney?",
+        "delivery": "Because it soots him!",
+        "category": "Christmas",
+        "id": "b96f5c0d-a7b2-4216-83e5-92d42472fe19"
+    },
+    {
+        "setup": "What kind of motorbike does Santa ride?",
+        "delivery": "A Holly Davidson!",
+        "category": "Christmas",
+        "id": "0eb5813e-b387-441d-b523-2e2664c6c9b8"
+    },
+    {
+        "setup": "Why is Linux safe?",
+        "delivery": "Hackers peak through Windows only.",
+        "category": "Programming",
+        "id": "39830ad8-7e4c-4862-ae19-7b3c6918e8f6"
+    },
+    {
+        "setup": "What kind of doctor is Dr. Pepper?",
+        "delivery": "He's a fizzician.",
+        "category": "Pun",
+        "id": "8cdc0510-ff71-43c4-8382-74a532e47c86"
+    },
+    {
+        "setup": "Jokes about anti-vaxxer parents never get old.",
+        "delivery": "Just like their kids.",
+        "category": "Dark",
+        "id": "d9f2542e-74cf-429a-a530-a528a10b95a5"
+    },
+    {
+        "setup": "What does a turkey dress up as for Halloween?",
+        "delivery": "A gobblin'!",
+        "category": "Spooky",
+        "id": "624b5804-3388-4b88-8329-950bc0d1e1ea"
+    },
+    {
+        "setup": "Why is crucified Jesus always depicted with six-pack abs?",
+        "delivery": "He did CrossFit.",
+        "category": "Pun",
+        "id": "05652168-082d-43a3-b915-e76dee6405d4"
+    },
+    {
+        "setup": "What do Asian people call fingers?",
+        "delivery": "Limb Limbs.",
+        "category": "Pun",
+        "id": "d7e677ad-bb7c-4e88-af9f-c13acb6ab6f2"
+    },
+    {
+        "setup": "What part of a vegetable are you not supposed to eat?",
+        "delivery": "The wheelchair.",
+        "category": "Dark",
+        "id": "7c3b89be-8f00-4ee8-9cc6-19e65dbbb056"
+    },
+    {
+        "setup": "How many nice guys does it take to change a lightbulb?",
+        "delivery": "None, they'll just compliment it and get pissed off when it won't screw.",
+        "category": "Misc",
+        "id": "ed1461b6-010e-4851-8bb9-cca8930261fc"
+    },
+    {
+        "setup": "Why did Santa's helper see the doctor?",
+        "delivery": "Because he had a low \"elf\" esteem!",
+        "category": "Christmas",
+        "id": "68af3d18-249f-4fae-a244-8f5ad2191cd1"
+    },
+    {
+        "setup": "What did one necrophiliac tell the other necrophiliac after work?",
+        "delivery": "\"Let's go have a couple of cold ones!\"",
+        "category": "Dark",
+        "id": "ee578354-b998-49cd-9d31-9ee2711e7c89"
+    },
+    {
+        "setup": "What do Japanese cannibals eat?",
+        "delivery": "Raw men.",
+        "category": "Dark",
+        "id": "5e1c8ffb-832c-4e37-ad4c-43ed9808a1f9"
+    },
+    {
+        "setup": "How long does a black woman take to throw away the garbage?",
+        "delivery": "Nine months.",
+        "category": "Dark",
+        "id": "85b5ae3b-834b-4459-ae3b-29af106b7ff9"
+    },
+    {
+        "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
+        "delivery": "A regular expression.",
+        "category": "Programming",
+        "id": "f5bb15fd-287f-447a-91c7-34d811b33938"
+    },
+    {
+        "setup": "Hey baby I wish your name was asynchronous...",
+        "delivery": "... so you'd give me a callback.",
+        "category": "Programming",
+        "id": "4be6c9e3-987b-4906-ae37-38bf10932b04"
+    },
+    {
+        "setup": "A web developer walks into a restaurant.",
+        "delivery": "He immediately leaves in disgust as the restaurant was laid out in tables.",
+        "category": "Programming",
+        "id": "2afe3008-73b1-46dd-bf1a-aa1e202e9242"
+    },
+    {
+        "setup": "A Roman walks into a bar and raises 2 fingers and says to the bartender...",
+        "delivery": "\"Five beers, please.\"",
+        "category": "Pun",
+        "id": "c78418cc-8a5d-4719-9ec5-343b04c22dad"
+    },
+    {
+        "setup": "Why shouldn't you visit an expensive wig shop?",
+        "delivery": "It's too high a price \"toupee.\"",
+        "category": "Pun",
+        "id": "62d90abc-2e70-4eea-aa2a-b6a9cc362262"
+    },
+    {
+        "setup": "Why are men like lawnmowers?",
+        "delivery": "They are very hard to get started, they make yucky smells and half the time they don't even work.",
+        "category": "Misc",
+        "id": "0c2f1a64-3151-4927-aa36-7bc44e740a2b"
+    },
+    {
+        "setup": "What do dermatologists and the KKK have in common?",
+        "delivery": "They both remove blackheads.",
+        "category": "Dark",
+        "id": "582845c6-0d9a-422f-b19e-ab29c418294f"
+    },
+    {
+        "setup": "9/11 jokes are not funny.",
+        "delivery": "The other 2 though, are hilarious!",
+        "category": "Dark",
+        "id": "add0948c-34f1-43f6-a36a-01c38e4838ad"
+    },
+    {
+        "setup": "What does the mermaid wear to math class?",
+        "delivery": "Algae-bra.",
+        "category": "Misc",
+        "id": "a39aa758-5511-439a-b9fb-26bebda0c90b"
+    },
+    {
+        "setup": "How did Harry Potter get down the hill?",
+        "delivery": "Walking...\nJK, Rolling.",
+        "category": "Pun",
+        "id": "44060618-a290-4247-9571-58835656f502"
+    },
+    {
+        "setup": "The KKK isn't really that racist.",
+        "delivery": "I went to one of their meetings and there were a lot of black people hanging around.",
+        "category": "Dark",
+        "id": "7e21d2c1-9be0-42e2-9a7a-d3613b9e4138"
+    },
+    {
+        "setup": "How do we know Jesus wasn't black?",
+        "delivery": "He would have been hung from a tree, not a cross.",
+        "category": "Dark",
+        "id": "d80c2e60-65fc-432c-a818-9752f6484542"
+    },
+    {
+        "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+        "delivery": "Because 7 8 9 A?",
+        "category": "Programming",
+        "id": "3944c4b3-eb19-42ba-a900-bf19baf8809f"
+    },
+    {
+        "setup": "\"99.9% of the people are dumb!\"",
+        "delivery": "\"Fortunately I belong to the remaining 1%\"",
+        "category": "Misc",
+        "id": "ed748651-133f-4915-9172-3c83093967b2"
+    },
+    {
+        "setup": "What do you call a witch at the beach?",
+        "delivery": "A Sandwich.",
+        "category": "Pun",
+        "id": "5974933b-367a-44cc-8220-dde6151e3b71"
+    },
+    {
+        "setup": "Dads are like boomerangs.",
+        "delivery": "I hope.",
+        "category": "Dark",
+        "id": "bd7463d5-40a2-4625-9fc2-92169d54989f"
+    },
+    {
+        "setup": "Why do Africans have dark skin?",
+        "delivery": "It's easier to commit crimes at night.",
+        "category": "Dark",
+        "id": "0957decd-1d51-4103-b06b-73b28fff8e55"
+    },
+    {
+        "setup": "What's the object-oriented way to become wealthy?",
+        "delivery": "Inheritance.",
+        "category": "Programming",
+        "id": "c7fe5cbb-4fb0-472b-b10e-a75febc96090"
+    },
+    {
+        "setup": "What's the difference between a little girl and a fridge?",
+        "delivery": "Fridges don't scream when you put your meat in them.",
+        "category": "Dark",
+        "id": "6d75c3f9-417f-49c2-8537-f1d2b11bb91a"
+    },
+    {
+        "setup": "Why is it so hard to break up with a Japanese girlfriend?",
+        "delivery": "You have to drop the bomb twice before she gets it.",
+        "category": "Dark",
+        "id": "b3861b06-c90e-4586-b202-cc2ddd5070e3"
+    },
+    {
+        "setup": "A grocery store cashier asked if I would like my milk in a bag.",
+        "delivery": "I told her \"No, thanks. The carton works fine\".",
+        "category": "Pun",
+        "id": "835f39c7-ccc1-45c5-bbbb-3103c0345ae9"
+    },
+    {
+        "setup": "The average penis has...",
+        "delivery": "Been in and around my ex-girlfriend's mouth.\nFuck you, Karen!",
+        "category": "Misc",
+        "id": "db436547-3b6a-4a52-8f41-db97669ac5be"
+    },
+    {
+        "setup": "What did the cannibal do after he dumped his girlfriend?",
+        "delivery": "He wiped his ass.",
+        "category": "Dark",
+        "id": "00b42398-2e28-40a0-bccb-51fa82d3f2e6"
+    },
+    {
+        "setup": ".NET developers are picky when it comes to food.",
+        "delivery": "They only like chicken NuGet.",
+        "category": "Programming",
+        "id": "b8e8f5eb-80ee-41d2-a5f2-489edfc70c78"
+    },
+    {
+        "setup": "What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?",
+        "delivery": "Attire.",
+        "category": "Pun",
+        "id": "fce828a7-9c20-4a58-9c62-f90c161b7f54"
+    },
+    {
+        "setup": "What's the difference between an apple and a black guy?",
+        "delivery": "The apple will eventually fall from the tree that it's hanging from!",
+        "category": "Dark",
+        "id": "968bbde7-e5db-4ded-9004-5b2868b13715"
+    },
+    {
+        "setup": "Two guys walked into a bar.",
+        "delivery": "The third guy ducked.",
+        "category": "Pun",
+        "id": "567aa466-75c2-4aad-92af-0e3d9e654fbf"
+    },
+    {
+        "setup": "When I was a kid, I made a really big sandcastle with my grandma.",
+        "delivery": "Unfortunately, that didn't impress anyone at the cremation...",
+        "category": "Dark",
+        "id": "204ccf5e-0474-4297-9bb1-f1bd153af889"
+    },
+    {
+        "setup": "Why did the programmer jump on the table?",
+        "delivery": "Because debug was on his screen.",
+        "category": "Programming",
+        "id": "0147e7a7-d6ff-44b8-b447-dfae42d53639"
+    },
+    {
+        "setup": "My mother said, \"You won't amount to anything because you always procrastinate.\"",
+        "delivery": "I said, \"Oh yeah... Just you wait.\"",
+        "category": "Misc",
+        "id": "027f5f25-28b2-469c-aea8-180ff4c8ad27"
+    },
+    {
+        "setup": "What do you call 4 Mexicans in quicksand?",
+        "delivery": "Quatro Sinko.",
+        "category": "Pun",
+        "id": "b5b583af-8d36-41b3-99e7-a47d52eb5cbe"
+    },
+    {
+        "setup": "What did the boy with no arms get for Christmas?",
+        "delivery": "I don't know, he hasn't opened it yet.",
+        "category": "Dark",
+        "id": "f8611cea-cfb6-4417-82ec-937f26ec2ccf"
+    },
+    {
+        "setup": "What do you tell a woman with 2 black eyes?",
+        "delivery": "Nothing. You already told her twice.",
+        "category": "Misc",
+        "id": "cbafa8ed-9dc5-4925-927f-c391257e4490"
+    },
+    {
+        "setup": "What do an orgasm and a pulse have in common?",
+        "delivery": "I don't care if she has one.",
+        "category": "Dark",
+        "id": "2f228822-8e7b-438f-af7e-9d2d526aa4c6"
+    },
+    {
+        "setup": "How many Jews can you fit into a car?",
+        "delivery": "Two in the front, three in the back, and a hundred in the ashtray.",
+        "category": "Dark",
+        "id": "1ccaa38e-ae1c-43b7-a009-c91678029072"
+    },
+    {
+        "setup": "What do you call a developer who doesn't comment code?",
+        "delivery": "A developer.",
+        "category": "Programming",
+        "id": "ebf2fb46-1bc4-4268-9c53-4d6785894bf6"
+    },
+    {
+        "setup": "What's the best thing about Switzerland?",
+        "delivery": "I don't know, but the flag is a big plus.",
+        "category": "Pun",
+        "id": "a9b3164b-819d-4dd0-9e02-7a1c073c2556"
+    },
+    {
+        "setup": "What time did the man go to the dentist?",
+        "delivery": "Tooth hurt-y.",
+        "category": "Pun",
+        "id": "96384642-c608-4008-bdbf-8d468f554c1f"
+    },
+    {
+        "setup": "What's the most notable similarity between a pedophile and a roller coaster?",
+        "delivery": "They both make a child scream, but the first ride's never the last",
+        "category": "Dark",
+        "id": "7c5087f2-3b0e-4acc-87a0-e18549f9d878"
+    },
+    {
+        "setup": "Why was the JavaScript developer sad?",
+        "delivery": "Because he didn't Node how to Express himself!",
+        "category": "Programming",
+        "id": "569c0d03-df3b-441c-9805-05603c5b4540"
+    },
+    {
+        "setup": "Life's like my dick.",
+        "delivery": "The more children you have, the harder it gets.",
+        "category": "Dark",
+        "id": "acf9dac9-8f4a-4e6f-a626-7d19492d2978"
+    },
+    {
+        "setup": "Why do cows wear bells?",
+        "delivery": "Because their horns don't work!",
+        "category": "Pun",
+        "id": "89c92591-8cd6-4ceb-8f4c-823b724e4de8"
+    },
+    {
+        "setup": "What's the difference between a hot potato and a flying pig?",
+        "delivery": "One's a heated yam, the other's a yeeted ham.",
+        "category": "Misc",
+        "id": "815f57f0-cbb1-48be-af42-c006bca6ec51"
+    },
+    {
+        "setup": "What do you call a cow with no legs?",
+        "delivery": "Ground beef.",
+        "category": "Pun",
+        "id": "f04cbe31-8e96-4c4a-9db1-36b04a7f3a43"
+    },
+    {
+        "setup": "Which is faster, Hot or cold?",
+        "delivery": "Hot, because you can catch a cold",
+        "category": "Pun",
+        "id": "c6f1939d-5ec7-42dd-86b7-0b5b9d66308a"
+    },
+    {
+        "setup": "Muslim women are horrible competitors.",
+        "delivery": "No matter what they do, they always get beat.",
+        "category": "Dark",
+        "id": "0bfd58c5-f182-4918-aa66-06d393b465b2"
+    },
+    {
+        "setup": "Why did the JavaScript heap close shop?",
+        "delivery": "It ran out of memory.",
+        "category": "Programming",
+        "id": "f3e67975-8464-4e14-bbae-d463f19bf666"
+    },
+    {
+        "setup": "What's the difference between a jew and a pizza?",
+        "delivery": "The pizza doesn't scream when you put it in the oven.",
+        "category": "Dark",
+        "id": "185f0dac-de87-4d36-85c8-986a3d7f5c97"
+    },
+    {
+        "setup": "I just saw my wife trip over and drop a basket full of ironed clothes.",
+        "delivery": "I watched it all unfold.",
+        "category": "Pun",
+        "id": "5de63af7-0d80-4976-a956-e2a0288b9fed"
+    },
+    {
+        "setup": "Why did the koala get rejected?",
+        "delivery": "Because he did not have any koalafication.",
+        "category": "Pun",
+        "id": "8d7bb765-706e-4936-9c0d-e9f59f5ae368"
+    },
+    {
+        "setup": "Whats the Grinchs least favorite band?",
+        "delivery": "The Who.",
+        "category": "Christmas",
+        "id": "47d35671-43cd-4fa2-9942-73a92314dd23"
+    },
+    {
+        "setup": "Why do programmers wear glasses?",
+        "delivery": "Because they need to C#",
+        "category": "Programming",
+        "id": "79afe032-8fbd-45f9-9f3b-8c727f589819"
+    },
+    {
+        "setup": "I told my psychiatrist I got suicidal tendencies.",
+        "delivery": "He said from now on I have to pay in advance.",
+        "category": "Dark",
+        "id": "265ac9a5-41cf-419a-9c7d-45320735cbc9"
+    },
+    {
+        "setup": "So I made a graph of all my past relationships.",
+        "delivery": "It has an ex axis and a why axis.",
+        "category": "Pun",
+        "id": "552d563a-1d8e-4080-9cd3-413bad43a69d"
+    },
+    {
+        "setup": "What is the difference between an oral thermometer and a rectal thermometer?",
+        "delivery": "The taste.",
+        "category": "Misc",
+        "id": "59f00ee7-19d1-4bb4-b80d-4f89ced9b43e"
+    },
+    {
+        "setup": "This morning I accidentally made my coffee with Red Bull instead of water.",
+        "delivery": "I was already on the highway when I noticed I forgot my car at home.",
+        "category": "Misc",
+        "id": "d1eeda0e-3981-4549-8a91-ce9f71a341ae"
+    },
+    {
+        "setup": "What do Ted Bundy and the Space Shuttle Columbia have in common?",
+        "delivery": "They both left bodies in four states.",
+        "category": "Dark",
+        "id": "959169cd-8849-43f0-87a7-ee9a455f8878"
+    },
+    {
+        "setup": "Why did the Romanian stop reading?",
+        "delivery": "They wanted to give the Bucharest.",
+        "category": "Pun",
+        "id": "4bff54ee-21d7-4bd8-9dff-9f59723f48dd"
+    },
+    {
+        "setup": "What's long and hard and has cum in it?",
+        "delivery": "A cucumber.",
+        "category": "Pun",
+        "id": "fb9883ed-4275-4d84-b897-fe9166a71f21"
+    },
+    {
+        "setup": "Why can't orphans play baseball?",
+        "delivery": "They don't know where home is.",
+        "category": "Dark",
+        "id": "2f22f3d2-1d5b-4950-8c68-5595d38d6797"
+    },
+    {
+        "setup": "How do Rednecks celebrate Halloween?",
+        "delivery": "Pump kin!",
+        "category": "Spooky",
+        "id": "95c03132-ca40-439b-bc86-1c38384a9fc3"
+    },
+    {
+        "setup": "why do python programmers wear glasses?",
+        "delivery": "Because they can't C.",
+        "category": "Programming",
+        "id": "d54c344e-6fe8-4a63-ac01-ab66bdcfb244"
+    },
+    {
+        "setup": "No matter how kind you are...",
+        "delivery": "German kids are always Kinder.",
+        "category": "Pun",
+        "id": "aff25cf8-11d3-4a50-9086-ab99ecae55db"
+    },
+    {
+        "setup": "Why does Santa have three gardens?",
+        "delivery": "So he can 'ho ho ho'!",
+        "category": "Christmas",
+        "id": "6217389e-621e-4889-ba5c-42859f0c1739"
+    },
+    {
+        "setup": "Why do programmers confuse Halloween and Christmas?",
+        "delivery": "Because Oct 31 = Dec 25",
+        "category": "Programming",
+        "id": "2afe2966-c7bf-4cdc-b958-e6514622feac"
+    },
+    {
+        "setup": "How do you keep black people out of your back yard?",
+        "delivery": "Hang one in the front!",
+        "category": "Dark",
+        "id": "bb027a5b-3933-446f-9114-b4c877f79b51"
+    },
+    {
+        "setup": "What's the difference between Jesus and a hooker?",
+        "delivery": "The look on their face when you are nailing them.",
+        "category": "Dark",
+        "id": "183f4002-9fda-4de5-a9e9-009064118f97"
+    },
+    {
+        "setup": "My wife left me because I'm too insecure and paranoid.",
+        "delivery": "Oh wait, never mind. She was just getting the mail.",
+        "category": "Misc",
+        "id": "db5ac532-bfe3-44bf-b5ee-7987ff991edf"
+    },
+    {
+        "setup": "Mom asked me where I'm taking her to go out to eat for mother's day.",
+        "delivery": "I told her, \"We already have food in the house\".",
+        "category": "Misc",
+        "id": "a93b21f9-8581-479c-acbe-c4150f53ced5"
+    },
+    {
+        "setup": "What did the customer say to the waiter?",
+        "delivery": "I'm all fed up with your service.",
+        "category": "Pun",
+        "id": "422be529-c30d-4433-b1c0-514f27097cb4"
+    },
+    {
+        "setup": "What do you call a cheap circumcision?",
+        "delivery": "A rip off.",
+        "category": "Pun",
+        "id": "b25cdafc-1f51-4ce2-9219-9cbd8179413e"
+    },
+    {
+        "setup": "How do construction workers party?",
+        "delivery": "They raise the roof.",
+        "category": "Misc",
+        "id": "dcb126f5-c0fa-4dbe-8092-e4ec99e4226f"
+    },
+    {
+        "setup": "How can you tell an extroverted programmer?",
+        "delivery": "He looks at YOUR shoes when he's talking.",
+        "category": "Programming",
+        "id": "b4a63019-8f80-4dc2-b2d8-d324954d885b"
+    },
+    {
+        "setup": "I can't believe I got fired from the calendar factory.",
+        "delivery": "All I did was take a day off.",
+        "category": "Pun",
+        "id": "db493a2f-1614-4122-b028-70ed11a21c28"
+    },
+    {
+        "setup": "Has COVID-19 forced you to wear glasses and a mask at the same time?",
+        "delivery": "If so, you may be entitled to condensation.",
+        "category": "Pun",
+        "id": "f1e8f7bc-3d9c-483c-9465-c7e5b0706776"
+    },
+    {
+        "setup": "Why did the banana go see a doctor?",
+        "delivery": "Because it wasn't peeling well.",
+        "category": "Pun",
+        "id": "1b971ff8-5db6-46bd-b0d9-9b46d0a14956"
+    },
+    {
+        "setup": "What do you call a bird sitting with their legs spread?",
+        "delivery": "A prostitweety.",
+        "category": "Misc",
+        "id": "7b663788-2594-4ea7-b1d8-5a29b583aa4c"
+    },
+    {
+        "setup": "Two peanuts were walking.",
+        "delivery": "One was assaulted.",
+        "category": "Pun",
+        "id": "9b84880f-392a-4af8-82ac-8f3ef0d9d426"
+    },
+    {
+        "setup": "I hate Russian matryoshka dolls.",
+        "delivery": "They're so full of themselves.",
+        "category": "Pun",
+        "id": "11c5867a-17be-4f5e-bc3e-9ff7d8782356"
+    },
+    {
+        "setup": "Why don't jews eat pussy?",
+        "delivery": "It's too close to the gas chamber.",
+        "category": "Dark",
+        "id": "a15bffb0-c1c6-42e9-9e17-150e27ab554b"
+    },
+    {
+        "setup": "What does a woman's pussy and a chainsaw have in common?",
+        "delivery": "Miss by a few inches and you're in deep shit.",
+        "category": "Misc",
+        "id": "75207330-d343-4ad3-b00a-8bdb666d4414"
+    },
+    {
+        "setup": "What do you call a Jewish Pokemon Trainer?",
+        "delivery": "Ash.",
+        "category": "Misc",
+        "id": "9d35f5a4-8ab7-4d5b-9e1b-d8c7ceaaf2b5"
+    },
+    {
+        "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+        "delivery": "An Al-Gore-ithm.",
+        "category": "Programming",
+        "id": "6bede187-1623-4c62-a984-676c84fd836d"
+    },
+    {
+        "setup": "Why did the programmer quit his job?",
+        "delivery": "Because he didn't get arrays.",
+        "category": "Programming",
+        "id": "e690e9a9-f22f-4e9c-a44b-1ff115598ed0"
+    },
+    {
+        "setup": "Who hides in the bakery at Christmas?",
+        "delivery": "A mince spy!",
+        "category": "Christmas",
+        "id": "1588725a-a53e-4523-ac3b-faef4bf0009e"
+    },
+    {
+        "setup": "Why are Americans shit at Dota?",
+        "delivery": "They can't protect their towers.",
+        "category": "Dark",
+        "id": "abfffd49-5f01-4b2a-a83c-30a5e613a1d3"
+    },
+    {
+        "setup": "Why do ghosts go on diets?",
+        "delivery": "So they can keep their ghoulish figures.",
+        "category": "Spooky",
+        "id": "ea5fd174-0a2b-4dc6-8dc9-08c448a5e0d2"
+    },
+    {
+        "setup": "What's Santa's favourite type of music?",
+        "delivery": "Wrap!",
+        "category": "Christmas",
+        "id": "aa15ec1b-2a8d-4742-ad2b-3bb8d8b9f442"
+    },
+    {
+        "setup": "What's the difference between a baby and a watermelon?",
+        "delivery": "One's satisfying to hit with a sledgehammer. The other's a watermelon.",
+        "category": "Dark",
+        "id": "a3e3bfdf-1259-4419-9e7c-e7453874fc88"
+    },
+    {
+        "setup": "I was walking down the street and saw some black guy on a bike and it looked just like mine so I ran home to check.",
+        "delivery": "Thankfully he was still chained up in my basement.",
+        "category": "Dark",
+        "id": "1e5c2af7-8646-4afa-b9f6-8cbda28f5efb"
+    },
+    {
+        "setup": "Why did the database administrator leave his wife?",
+        "delivery": "She had one-to-many relationships.",
+        "category": "Programming",
+        "id": "52287a6d-6f6a-4375-b9f1-565ee0b53f21"
+    },
+    {
+        "setup": "My wife divorced me so I stole her wheelchair.",
+        "delivery": "Guess who came crawling back.",
+        "category": "Dark",
+        "id": "84dd78f0-057a-4396-9b42-dcc7f1ca972d"
+    },
+    {
+        "setup": "What's the difference between a school bus and a cactus?",
+        "delivery": "A cactus keeps the little pricks on the outside.",
+        "category": "Misc",
+        "id": "9b57f986-9cf3-4d0e-9e3a-5335747e44fa"
+    },
+    {
+        "setup": "I asked my wife if I was the only one she's been with.",
+        "delivery": "She said, \"Yes, the others were at least sevens or eights.\"",
+        "category": "Pun",
+        "id": "7f8e7deb-ba99-47be-a715-56033b2aea2e"
+    },
+    {
+        "setup": "What do Santa's little helpers learn at school?",
+        "delivery": "The elf-abet!\n",
+        "category": "Christmas",
+        "id": "4e0ba037-d1ff-4652-9d35-6a8784a48796"
+    },
+    {
+        "setup": "I had a granny that we couldn't decide whether to bury or cremate",
+        "delivery": "In the end we decided to just let her live.",
+        "category": "Dark",
+        "id": "138ed6dd-4617-4296-a37d-1f99f14f856a"
+    },
+    {
+        "setup": "Why did the ghost go inside the bar?",
+        "delivery": "For the boos.",
+        "category": "Spooky",
+        "id": "dbd24d9f-256e-40b9-bf58-eb6f965f1968"
+    },
+    {
+        "setup": "What kind of car did Whitney Houston drive?",
+        "delivery": "A Hyundaiiiiiiiiiiii",
+        "category": "Pun",
+        "id": "23f66403-6f51-449b-80e2-8f0c24dfd734"
+    },
+    {
+        "setup": "What do you call a cop's penis after he's done masturbating?",
+        "delivery": "Pulled pork.",
+        "category": "Pun",
+        "id": "2aff81dd-de30-4ffd-8f75-69848acedf06"
+    },
+    {
+        "setup": "What's it like to be kissed by a vampire?",
+        "delivery": "It's a pain in the neck.",
+        "category": "Spooky",
+        "id": "6e0495a9-eb5b-4b96-bd15-8a8acd2e6ba4"
+    },
+    {
+        "setup": "Why did the Python programmer not respond to the foreign mails he got?",
+        "delivery": "Because his interpreter was busy collecting garbage.",
+        "category": "Programming",
+        "id": "c1d65925-28e2-4c64-9f69-abf15243267b"
+    },
+    {
+        "setup": "I'm thinking of setting up a comedy group to help people going through cancer treatment.",
+        "delivery": "I'll call it \"A Sense of Tumor\".",
+        "category": "Pun",
+        "id": "9028da7f-6ab6-4699-9462-228ef8075324"
+    },
+    {
+        "setup": "What is the best prefix for global variables?",
+        "delivery": "//",
+        "category": "Programming",
+        "id": "66061855-66c6-4ae7-b10d-88466aec32bc"
+    },
+    {
+        "setup": "What is in a ghost's nose?",
+        "delivery": "Boo-gers.",
+        "category": "Spooky",
+        "id": "660250f7-3e15-439c-97ca-f1c82cc3b64c"
+    },
+    {
+        "setup": "My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name.",
+        "delivery": "Other than that, the sex is great.",
+        "category": "Dark",
+        "id": "d01d5e96-88a6-4063-a564-8ac1dcb361ae"
+    },
+    {
+        "setup": "White people don't shoot each other in the streets as black people do.",
+        "delivery": "They do it in schools because they have class.",
+        "category": "Dark",
+        "id": "db00bda7-198b-47ea-8a10-e8c442ce54f4"
+    },
+    {
+        "setup": "Genders are a lot like booleans.",
+        "delivery": "There's only two of them.",
+        "category": "Programming",
+        "id": "d0e487f3-bfa8-40b9-9688-97c8d5d7b31e"
+    },
+    {
+        "setup": "How many programmers does it take to screw in a light bulb?",
+        "delivery": "None. It's a hardware problem.",
+        "category": "Programming",
+        "id": "4ade5a27-fa28-41eb-9cfd-1e892f2ae8b0"
+    },
+    {
+        "setup": "What did the fish say when it swam into the wall?",
+        "delivery": "Dam.",
+        "category": "Pun",
+        "id": "dd4dbb9b-c84b-4dd3-a353-071804df4375"
+    },
+    {
+        "setup": "What's the difference between a feminist and a grenade?",
+        "delivery": "The grenade actually accomplishes something when it triggers.",
+        "category": "Misc",
+        "id": "6cff2062-e145-4032-a1cb-9d9f90551412"
+    },
+    {
+        "setup": "What are bits?",
+        "delivery": "Tiny things left when you drop your computer down the stairs.",
+        "category": "Programming",
+        "id": "1dd2515f-6df6-4f16-a57f-0facd33fe56f"
+    },
+    {
+        "setup": "Did you hear about the claustrophobic astronaut?",
+        "delivery": "He just needed a little space.",
+        "category": "Pun",
+        "id": "14a34a3a-dffc-4c12-a08c-050ca580f0e8"
+    },
+    {
+        "setup": "Why does no one like SQLrillex?",
+        "delivery": "He keeps dropping the database.",
+        "category": "Programming",
+        "id": "9d7a5e6f-275a-44c9-a72a-04cac84ab536"
+    },
+    {
+        "setup": "Why couldn't the skeleton go to the Christmas party?",
+        "delivery": "Because he had no body to go with!",
+        "category": "Christmas",
+        "id": "6739ee28-49b3-42c0-9c0e-bd07ab886419"
+    },
+    {
+        "setup": "What does tofu and a dildo have in common?",
+        "delivery": "They're both meat substitutes.",
+        "category": "Misc",
+        "id": "faa94c33-20eb-45f7-a393-1fb08c88e4c5"
+    },
+    {
+        "setup": "What does a perverted frog say?",
+        "delivery": "Rubbit.",
+        "category": "Pun",
+        "id": "1b79961b-725a-466b-a796-08506207f024"
+    },
+    {
+        "setup": "I WRITE MY JOKES IN CAPITALS.",
+        "delivery": "THIS ONE WAS WRITTEN IN PARIS.",
+        "category": "Misc",
+        "id": "1ff7b077-4527-410c-a8a4-9cb97da1d010"
+    },
+    {
+        "setup": "How much did your chimney cost?",
+        "delivery": "Nothing, it was on the house.",
+        "category": "Pun",
+        "id": "7b021634-f824-479f-b909-8f32fd1587d2"
+    },
+    {
+        "setup": "What's black and sits at the top of a stairwell?",
+        "delivery": "A paraplegic after a house fire.",
+        "category": "Dark",
+        "id": "6f324d83-53c1-4185-bb59-8878f1ce11a0"
+    },
+    {
+        "setup": "Why do Java programmers hate communism?",
+        "delivery": "They don't want to live in a classless society.",
+        "category": "Programming",
+        "id": "fb69ac3c-e1a9-4075-a830-6721362d0b1d"
+    },
+    {
+        "setup": "What do you call a group of 8 Hobbits?",
+        "delivery": "A Hobbyte.",
+        "category": "Programming",
+        "id": "ed8c282d-9c71-4be0-906b-773a6453754b"
+    },
+    {
+        "setup": "I've been in 15 school shootings and I was lucky to survive!",
+        "delivery": "I just had to be nice with the cops and not resist.",
+        "category": "Dark",
+        "id": "190fe7f3-8bb3-4f3f-bbef-8cdbd694d550"
+    },
+    {
+        "setup": "Did you hear about the cheese factory that exploded in France?",
+        "delivery": "There was nothing but de brie.",
+        "category": "Pun",
+        "id": "92383799-e4c0-4e5b-b076-009d5bc93a55"
+    },
+    {
+        "setup": "What's the difference between a gay guy and a refrigerator?",
+        "delivery": "A refrigerator doesn't fart when I pull my meat out of it.",
+        "category": "Misc",
+        "id": "41ed6bed-b350-4bf3-b237-1ba54d899346"
+    },
+    {
+        "setup": "How does a Jewish person make tea?",
+        "delivery": "Hebrews it.",
+        "category": "Pun",
+        "id": "c998f043-7c3b-4c39-aaf2-4ebfdd32a01b"
+    },
+    {
+        "setup": "What do elves post on Social Media?",
+        "delivery": "Elf-ies!",
+        "category": "Christmas",
+        "id": "578222b0-4951-48c8-9601-22716513385b"
+    },
+    {
+        "setup": "Where do sick cruise ships go to get healthy?",
+        "delivery": "The dock!",
+        "category": "Pun",
+        "id": "d4faadd1-a5ce-4d98-836e-a3f4980b68b4"
+    }
+]

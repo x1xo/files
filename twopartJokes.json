@@ -1,0 +1,3776 @@
+[
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What is the difference between the Constitutions of the USA and the USSR? Don't both of them guarantee freedom of speech?",
+        "delivery": "Yes, but the Constitution of the USA also guarantees freedom after the speech.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6d5f948c-8d95-4dfa-b119-feb25f5a7bd4",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's green and smells like pork?",
+        "delivery": "Kermit's Fingers.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "32edf49d-4a50-4bbb-9a77-3f782b176a00",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "One time I masturbated on a plane.",
+        "delivery": "I called it \"highjacking\".",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "d69a6e7c-bc89-4568-979a-9a7a10109091",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What is the difference between acne and a catholic priest?",
+        "delivery": "Acne usually comes on a boys face after he turns 12.",
+        "flags": {
+            "nsfw": true,
+            "religious": true,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "a3097f6e-ca05-458a-9984-b4266ff6779f",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How do you generate a random string?",
+        "delivery": "Put a Windows user in front of Vim and tell him to exit.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "9a864c22-1636-4226-be71-c64a5cea31d1",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Went to the doctors for a prostate exam.\nDuring the exam he said it's not unusual to become aroused or even ejaculate.",
+        "delivery": "But still, I wish he hadn't.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "30ab537c-6df5-4087-807a-aabbb3f67e2d",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How do you know God is a shitty programmer?",
+        "delivery": "He wrote the OS for an entire universe, but didn't leave a single useful comment.",
+        "flags": {
+            "nsfw": false,
+            "religious": true,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "10bc15cf-1ba4-400a-a564-2b09f8516bae",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "My employer came running to me and said, \"I was looking for you all day! Where the hell have you been?\"",
+        "delivery": "I replied, \"Good employees are hard to find.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "6a8ca04b-e3b0-42c5-a057-a38501951bbc",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I walked into a bar once.",
+        "delivery": "It really hurt my head.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "49612ad0-ee6b-42c5-aa3a-411bafc10b90",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I was feeling depressed, my wife put her hand on my back and said \"Earth.\"",
+        "delivery": "It meant the world to me.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "d0c37e5d-0e1b-48a9-be57-a1694b28a7fe",
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What do 9 out of 10 people enjoy?",
+        "delivery": "Gang rape.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "69623248-1662-4bfa-badf-77093c880073",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call crystal clear urine?",
+        "delivery": "1080p.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "13af8116-2f10-4e18-ab2b-ac410016db94",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "What does Santa suffer from if he gets stuck in a chimney?",
+        "delivery": "Claustrophobia!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "36f4835d-875e-469f-a0c6-ee2884a77175",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why does Beyonce sing \"to the left, to the left\"?",
+        "delivery": "Because women don't have rights.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": false
+        },
+        "id": "66047937-a944-498b-824e-301449913d26",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why did the chicken cross the road, roll in the mud and cross the road again?",
+        "delivery": "He was a dirty double-crosser!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "7682e9d8-b004-41b8-96a0-c0489083a159",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "My neighbor is a 90 year old with Alzheimer's, I see him every morning and he asks me If I've seen his wife.\nEvery day I have to tell this poor man that his wife died 20 years ago.\nI could have moved to another house or even ignore his question.",
+        "delivery": "But the look of joy in his eyes whenever I answer him is worth the world.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "2cff398a-ec00-4de1-b36d-b05d235a3a32",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What is the difference between a pizza and a black man?",
+        "delivery": "A pizza can feed a family of five.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "72cd1ac3-3901-4831-96b2-77e0c5d83574",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "You see, mountains aren't just funny.",
+        "delivery": "They are hill areas.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "3f547b38-e5a7-48ea-ba04-e1638da0c6bb",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "My girlfriend left me because I have a fetish for touching pasta.",
+        "delivery": "I'm feeling cannelloni now. :'(",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "92bfe91f-7888-4472-9ff6-57597f01f123",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.",
+        "delivery": "She still isn't talking to me.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "cdf59cdf-8a79-42b2-91f7-fc59cdda3e9f",
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "I won the lottery today!",
+        "delivery": "Well, I only got the first two numbers, but my lawyers are working on having them stop the count.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "1ae1108f-a163-470b-a267-3bde61222a7b",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Everyone says that Hitler really loved animals.",
+        "delivery": "Then why did he kill 6 million of them?",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "247beabd-6528-4302-8255-1186fbe3cf23",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "If I make you breakfast in bed, a simple thank you is all I need.",
+        "delivery": "Not all this \"How the fuck did you get in my house?!\" nonsense.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "4fb34e02-c85e-47fa-98ca-bb15d48e07cb",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Arguing with a woman is like reading a software's license agreement.",
+        "delivery": "In the end you ignore everything and click \"I agree\".",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": false
+        },
+        "id": "d8cbe9c0-ea4c-41f2-b5cf-fdb276df7f15",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "My first high-school football game was a lot like my first time having sex...",
+        "delivery": "I was bloody and sore at the end, but at least my dad came.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "a4c42622-58de-4ad2-bf21-97d3a48c5ccd",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Thank you student loans for getting me through college.",
+        "delivery": "I don't think I'll ever be able to repay you.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "9c8a4b1f-2c74-4d0f-a073-7e7c880fcaa5",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the functional programmer get thrown out of school?",
+        "delivery": "Because he refused to take classes.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "9a9a4897-191b-4efd-9603-aa58beb654a3",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "I used to love to tell dad jokes.",
+        "delivery": "Dad, come back...",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "f72e1528-eda0-4539-b784-d63edd124d16",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What happens when you don't obey the KGB?",
+        "delivery": "You get Putin jail.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "2c3664b5-95c3-47b7-b76c-fbecd29ed1be",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Hey, wanna hear a joke?",
+        "delivery": "Parsing HTML with regex.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "31ea2ddb-e874-419f-bee6-b0a0bef471a1",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Say what you want about pedophiles...",
+        "delivery": "But at least they drive slowly through the school zones.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "d33dfee2-0d03-48ba-b393-89983bedf207",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a deer with no eyes?",
+        "delivery": "No eye deer.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "3506840c-89ba-4a8a-9a25-6e62eea0bbe7",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why do Jewish women prefer circumcised men?",
+        "delivery": "Cause they won't take anything until it's atleast 10% off.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "8517fa8c-e7b0-4c76-965c-dfeec47db9ee",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What kind of bees produce milk?",
+        "delivery": "Boo-Bees.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "dca12e36-d6e3-4eb5-ab17-85c50b93964d",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a pile of kittens?",
+        "delivery": "A meowntain.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "50339d18-f857-48fe-8a07-8fa360ad1ee1",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What's grey and comes in pints?",
+        "delivery": "An elephant.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "98a12c4c-5943-4f77-8fd4-e88714f65ac6",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why do Hong Kong cops like to go to work early?",
+        "delivery": "To beat the crowd.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "42818037-a3b8-45b3-b8e3-4124e07c27dd",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why are cats so good at video games?",
+        "delivery": "They have nine lives.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "8d259aea-f6cb-476d-bb95-6d5d5fd04041",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why are modern programming languages so materialistic?",
+        "delivery": "Because they are object-oriented.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "14dee5af-2c05-4409-81b9-cc8dacd9d654",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "How does a black woman fight crime?",
+        "delivery": "She has an abortion.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "7529b657-848f-47b7-9708-119adf1e8e33",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why do programmers prefer using the dark mode?",
+        "delivery": "Because light attracts bugs.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "231f3639-e26a-4ce2-aaea-7b58c20b095d",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why are there no pharmacies in Africa?",
+        "delivery": "Because you can't use medicine on an empty stomach.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6b8854e2-57a3-4701-8cd1-8590e275ba04",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What do you call a kid with no arms and an eyepatch?",
+        "delivery": "Names.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "733e6a28-defa-42a0-bcc5-38c91a7b7eb1",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between an in-law and an outlaw?",
+        "delivery": "An outlaw is wanted.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6b8190ac-e199-46ab-b3b8-21914b1206ed",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "Who is Santa's favourite singer?",
+        "delivery": "Elf-is Presley!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "a1449c39-4e1f-4ac0-a0ad-4a2fe3be57b9",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What is a dying programmer's last program?",
+        "delivery": "Goodbye, world!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "4fae0c42-7fb4-48c4-af8d-d9edfbd5a443",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "I told my wife to shave her pussy.",
+        "delivery": "I woke up bald.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "470fc56a-fd5a-4117-bac5-ec55af70e437",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the difference between a baby and a pile of sand?",
+        "delivery": "You can't pick a pile of sand up with a pitchfork.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "b3967c7c-55f0-4c6a-97c0-25431c8e4f25",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Mickey Mouse and Minnie Mouse are in the divorce court.\n\"Mickey\", the judge says, \"I'm sorry. I can't grant you a divorce on the grounds of insanity. Minnie seems quite sane to me.\"",
+        "delivery": "\"I didn't say she was insane\", exclaims Mickey.\n\"I said she was fucking Goofy.\"",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "ef9b0299-01d7-443f-86cc-3f1c867c994c",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Programming is like sex.",
+        "delivery": "Make one mistake and you end up supporting it for the rest of your life.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "fd87fde4-4260-4c22-b2ed-aee68414a7e1",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How did you make your friend rage?",
+        "delivery": "I implemented a greek question mark in his JavaScript code.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "dc4f3819-4908-417e-8e4f-4f290a1a9d7c",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why do they call it hyper terminal?",
+        "delivery": "Too much Java.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "04862785-2282-4876-8557-8e74d2ad9690",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "I'm sure good looking lesbians look at fat lesbians and give them no chance.",
+        "delivery": "Until they see their fingers.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "c7f3e0f8-16c6-4003-a6c6-6f4f31b9976a",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a deaf gynecologist?",
+        "delivery": "A lip reader.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "64b53dcc-8961-43b1-acd6-92c1008368ba",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why was the river rich?",
+        "delivery": "Because it had two banks.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "59a71595-f9e2-4b70-8d1d-c86349da955c",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "The past, the present and the future walk into a bar.",
+        "delivery": "It was tense.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "d744d284-5d3d-421b-8ff5-5d0a9557bfc5",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What is the least spoken language in the world?",
+        "delivery": "Sign language.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "3bd46544-cb28-44f2-bc31-ab0f33a028df",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Dark humor is like cancer.",
+        "delivery": "It's more funny when children get it.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "f10aa1c7-efb4-46b3-b720-5e7578b966aa",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "To prove he was right, the flat-earther walked to the end of the Earth.",
+        "delivery": "He eventually came around.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "cec4b484-903a-4849-b634-63cedf009c3b",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I just got fired from my job at the keyboard factory.",
+        "delivery": "They told me I wasn't putting in enough shifts.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "f4c33c3b-1549-4c18-be75-857e9a39e31b",
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why do German showers have 11 holes?",
+        "delivery": "Because Jews only have 10 fingers.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "cb934c1b-6bde-422b-943b-6c8c30f8e0a2",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How did the programmer die in the shower?",
+        "delivery": "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": false,
+        "id": "307bfd51-0f1c-4215-97f9-94ec4a16cc7e",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "The gas Argon walks into a bar.\nThe barkeeper says \"What would you like to drink?\"",
+        "delivery": "But Argon doesn't react.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "ece87e05-eb60-4648-9976-309343556958",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Which part of the hospital has the least privacy?",
+        "delivery": "The ICU.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "577494ea-273f-490d-9766-3b032675baa0",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why does the size of the snack not matter to a giraffe?",
+        "delivery": "Because even a little bit goes a long way.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "b701c34a-9967-4887-b22a-38a66498087f",
+        "lang": "en"
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "Why didn't the skeleton go for prom?",
+        "delivery": "Because it had nobody.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "1d7e9ad3-c694-4b23-b4f2-a717efae4530",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I stayed up all night wondering where the sun went.",
+        "delivery": "Then it dawned on me.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "6a31b750-a864-4c92-955c-4938c0aa4186",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What is the most used language in programming?",
+        "delivery": "Profanity.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "564135a5-4da8-4dac-9b41-7735be7ffe35",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why does Dr. Pepper come in a bottle?",
+        "delivery": "His wife is dead.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "3208d914-c353-4be4-8603-0c3b36d0d4c9",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the difference between Harry Potter and the jews?",
+        "delivery": "Harry escaped the chamber.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "310cc6ae-7740-4af7-879f-6e95f18faabc",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What do you use to blindfold an Asian?",
+        "delivery": "Floss.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "fe2ee460-cc57-4b41-81fc-c3e8e7a876f8",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "What says Oh Oh Oh?",
+        "delivery": "Santa walking backwards!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "bbc2ad95-d2e8-4d4f-b264-9c4d6cf39cb0",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What did the cell say when his sister cell stepped on his foot?",
+        "delivery": "Mitosis.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6d52ee22-e167-4cdb-a258-56d38cf37529",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why is every gender equality officer female?",
+        "delivery": "Because it's cheaper.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": false
+        },
+        "id": "0668a100-9d45-4754-9d24-66d83593b573",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why are Assembly programmers always soaking wet?",
+        "delivery": "They work below C-level.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "66dfc420-ed84-4bbc-8e18-578eef23cfca",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the Python data scientist get arrested at customs?",
+        "delivery": "She was caught trying to import pandas!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "19f89311-8780-464a-a9ec-774d1e14e0fa",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "How will Christmas dinner be different after Brexit?",
+        "delivery": "No Brussels!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "42ff33a2-107e-4cdd-b0a4-12cb8b6da77f",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why was the mushroom always invited to parties?",
+        "delivery": "Cause he's a fungi.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "2a98a37d-4d59-42f7-a34c-fd3783291b3f",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "I like my girls how I like my COVID.",
+        "delivery": "19 and easily spread.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "aa4f197c-2400-4357-81dc-da0b590a18e7",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why do front end developers eat lunch alone?",
+        "delivery": "Because they don't know how to join tables.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "a1393a06-c882-48a0-aaf9-c4a0f1c2e9c7",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "People are like jellybeans and licorice:",
+        "delivery": "No one likes the blacks.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "20db3195-77ef-4c0c-bc97-895ecbd06a58",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "Why does Santa go down the chimney?",
+        "delivery": "Because it soots him!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "9b944c4d-75b8-4d1b-a2db-f1c52c8dc296",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "What kind of motorbike does Santa ride?",
+        "delivery": "A Holly Davidson!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "52508275-fd0b-440a-baa4-63a42561e1fd",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why is Linux safe?",
+        "delivery": "Hackers peak through Windows only.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "808ad203-13af-480e-89a2-2f327bbeb19f",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What kind of doctor is Dr. Pepper?",
+        "delivery": "He's a fizzician.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "158eea93-b974-4033-879a-13ad03db0c20",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Jokes about anti-vaxxer parents never get old.",
+        "delivery": "Just like their kids.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6ce9b7e6-78f4-4aac-bc71-6eea080a2d0f",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "What does a turkey dress up as for Halloween?",
+        "delivery": "A gobblin'!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "0b47c474-f2cd-4114-a979-a20d95b8f717",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why is crucified Jesus always depicted with six-pack abs?",
+        "delivery": "He did CrossFit.",
+        "flags": {
+            "nsfw": false,
+            "religious": true,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "f21ae74c-281f-4579-bc88-cc6d34c183fa",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do Asian people call fingers?",
+        "delivery": "Limb Limbs.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "08d3f34a-fad0-4567-b79d-fc07d71e9bba",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What part of a vegetable are you not supposed to eat?",
+        "delivery": "The wheelchair.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "a7d79c56-6d02-4ab1-bdc0-0be293b5a2d0",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "How many nice guys does it take to change a lightbulb?",
+        "delivery": "None, they'll just compliment it and get pissed off when it won't screw.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "1c4622e1-95d2-4f52-a5b2-b284b3ffce47",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "Why did Santa's helper see the doctor?",
+        "delivery": "Because he had a low \"elf\" esteem!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6517c4f8-978f-4939-b8f8-c70779dbf807",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What did one necrophiliac tell the other necrophiliac after work?",
+        "delivery": "\"Let's go have a couple of cold ones!\"",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "f7ac24c7-f873-4dd3-b7ca-875435c007d8",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What do Japanese cannibals eat?",
+        "delivery": "Raw men.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "0b667c06-bc4d-4071-950f-a50225b5024c",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "How long does a black woman take to throw away the garbage?",
+        "delivery": "Nine months.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "c41d5d9f-2f68-4bbb-95f6-abf065c04aba",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What do you get if you lock a monkey in a room with a typewriter for 8 hours?",
+        "delivery": "A regular expression.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "33963404-2134-4650-ac90-e8b1a10e679f",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Hey baby I wish your name was asynchronous...",
+        "delivery": "... so you'd give me a callback.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "c0903fe8-e269-4bb5-a937-2a5ba1afcd2b",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "A web developer walks into a restaurant.",
+        "delivery": "He immediately leaves in disgust as the restaurant was laid out in tables.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "29804655-3bdb-40b0-8497-14ad9a454621",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "A Roman walks into a bar and raises 2 fingers and says to the bartender...",
+        "delivery": "\"Five beers, please.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "b67bb0d3-29f8-4350-a593-bd6c2124a242",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why shouldn't you visit an expensive wig shop?",
+        "delivery": "It's too high a price \"toupee.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "8be0c0e7-cff8-4fa4-8f14-1e5ea89dad5d",
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Why are men like lawnmowers?",
+        "delivery": "They are very hard to get started, they make yucky smells and half the time they don't even work.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": false
+        },
+        "id": "d4d650c2-9761-4387-b8fb-18d16c9fc106",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What do dermatologists and the KKK have in common?",
+        "delivery": "They both remove blackheads.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "34a22087-ff06-48bd-81bd-e421a4c152da",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "9/11 jokes are not funny.",
+        "delivery": "The other 2 though, are hilarious!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "d11e10ec-354f-42fe-82ea-2066fa5e7149",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What does the mermaid wear to math class?",
+        "delivery": "Algae-bra.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": false,
+        "id": "8188a435-c8f9-4eee-9595-27c4bde2329d",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "How did Harry Potter get down the hill?",
+        "delivery": "Walking...\nJK, Rolling.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "5eaaaa57-f345-491f-be24-e58e760bd831",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "The KKK isn't really that racist.",
+        "delivery": "I went to one of their meetings and there were a lot of black people hanging around.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "7cbbc869-7c84-4aea-a33a-a8af0130bc1b",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "How do we know Jesus wasn't black?",
+        "delivery": "He would have been hung from a tree, not a cross.",
+        "flags": {
+            "nsfw": false,
+            "religious": true,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "2fb87d55-2345-469d-a145-970483f436e6",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why is 6 afraid of 7 in hexadecimal Canada?",
+        "delivery": "Because 7 8 9 A?",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6ac7826f-899c-4dcd-9a0c-9eb2451648e1",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "\"99.9% of the people are dumb!\"",
+        "delivery": "\"Fortunately I belong to the remaining 1%\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "0d5bf068-ddc2-4ef7-95a0-8e6eba3febe7",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a witch at the beach?",
+        "delivery": "A Sandwich.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "8d5a3299-83c6-466f-843e-b93d7b5c9f34",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Dads are like boomerangs.",
+        "delivery": "I hope.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "981ee3a0-a992-4039-b661-617a609bd26f",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why do Africans have dark skin?",
+        "delivery": "It's easier to commit crimes at night.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": false,
+        "id": "0c67b939-2751-4eb7-978b-dbb2a244a459",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What's the object-oriented way to become wealthy?",
+        "delivery": "Inheritance.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "fa26ad07-ee79-427a-bfc4-617249093625",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the difference between a little girl and a fridge?",
+        "delivery": "Fridges don't scream when you put your meat in them.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "00b8c0d2-b43f-424d-84b4-eaa3655d6499",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why is it so hard to break up with a Japanese girlfriend?",
+        "delivery": "You have to drop the bomb twice before she gets it.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "09df0e03-2cbd-49d4-a193-97730f5cb580",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "A grocery store cashier asked if I would like my milk in a bag.",
+        "delivery": "I told her \"No, thanks. The carton works fine\".",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "e27ae778-9c33-4972-93e8-f192b1d282f3",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "The average penis has...",
+        "delivery": "Been in and around my ex-girlfriend's mouth.\nFuck you, Karen!",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "d164cda8-ce87-4a44-a26d-02e5f32804b8",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What did the cannibal do after he dumped his girlfriend?",
+        "delivery": "He wiped his ass.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "6bbe0d3f-17cb-47ba-b053-b7fdeb80acd6",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": ".NET developers are picky when it comes to food.",
+        "delivery": "They only like chicken NuGet.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "fa090efe-2d6e-4ce7-a1e9-0a7359d6dd6f",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?",
+        "delivery": "Attire.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "e3e61ad1-911e-4e25-8154-8ec388854d57",
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the difference between an apple and a black guy?",
+        "delivery": "The apple will eventually fall from the tree that it's hanging from!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "39fc0e42-e0b7-4da8-95f1-74a454b94bfd",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Two guys walked into a bar.",
+        "delivery": "The third guy ducked.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "d2a248c5-6585-4d37-b3e6-d3ffdf2fa977",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "When I was a kid, I made a really big sandcastle with my grandma.",
+        "delivery": "Unfortunately, that didn't impress anyone at the cremation...",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "ac4a6925-3f29-4906-add2-aa4ab6b6428a",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the programmer jump on the table?",
+        "delivery": "Because debug was on his screen.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "df18c373-f2ca-4bc2-9a17-b83d59e9223d",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "My mother said, \"You won't amount to anything because you always procrastinate.\"",
+        "delivery": "I said, \"Oh yeah... Just you wait.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "2224de8b-9276-45fb-80ed-b587f3574efc",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call 4 Mexicans in quicksand?",
+        "delivery": "Quatro Sinko.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "d39a685d-275b-4a26-a350-bfab323aa2ae",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What did the boy with no arms get for Christmas?",
+        "delivery": "I don't know, he hasn't opened it yet.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "164b9d85-e075-4727-ba3a-aeb035f3c661",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What do you tell a woman with 2 black eyes?",
+        "delivery": "Nothing. You already told her twice.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": true
+        },
+        "id": "1d47b170-9ff7-4d3c-add5-fb631c8581fa",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What do an orgasm and a pulse have in common?",
+        "delivery": "I don't care if she has one.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "b07505df-6625-4526-9b7d-540843813cad",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "How many Jews can you fit into a car?",
+        "delivery": "Two in the front, three in the back, and a hundred in the ashtray.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "bffefa82-d844-46c8-be29-b8559dd3b10d",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What do you call a developer who doesn't comment code?",
+        "delivery": "A developer.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "a76e485a-40e1-4873-a598-ecb7cf105445",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What's the best thing about Switzerland?",
+        "delivery": "I don't know, but the flag is a big plus.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "racist": false,
+            "sexist": false,
+            "political": false,
+            "explicit": false
+        },
+        "id": "469a1338-14a7-4ded-bc8f-28ebfa57458e",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What time did the man go to the dentist?",
+        "delivery": "Tooth hurt-y.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "fe735dc3-b648-4a02-a850-ad8cc5de630b",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the most notable similarity between a pedophile and a roller coaster?",
+        "delivery": "They both make a child scream, but the first ride's never the last",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "be686391-f3e1-4d85-a0f6-44553579ebc8",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why was the JavaScript developer sad?",
+        "delivery": "Because he didn't Node how to Express himself!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "a9383877-606f-45d4-acbf-bb7c306dfdd0",
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Life's like my dick.",
+        "delivery": "The more children you have, the harder it gets.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "f6ce197d-a70e-4cce-b03c-edd15c77501c",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why do cows wear bells?",
+        "delivery": "Because their horns don't work!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "bac4b498-789a-472d-aace-162e7811cdb5",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between a hot potato and a flying pig?",
+        "delivery": "One's a heated yam, the other's a yeeted ham.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "74ceffe0-dd4f-4242-9c5b-e2ff4183750b",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a cow with no legs?",
+        "delivery": "Ground beef.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "5bd17700-526e-46c6-8b04-3f5fd84a1b4f",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Which is faster, Hot or cold?",
+        "delivery": "Hot, because you can catch a cold",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "7eafd2eb-713a-4173-b362-d2803b88757c",
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Muslim women are horrible competitors.",
+        "delivery": "No matter what they do, they always get beat.",
+        "flags": {
+            "nsfw": false,
+            "religious": true,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "b714f82e-7b74-4c09-976e-fad213e30798",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the JavaScript heap close shop?",
+        "delivery": "It ran out of memory.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "d48d9909-bd17-4b4e-87fc-e164c2cedaeb",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the difference between a jew and a pizza?",
+        "delivery": "The pizza doesn't scream when you put it in the oven.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "9c853972-c2c4-40de-86b6-1dd1eb816a77",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I just saw my wife trip over and drop a basket full of ironed clothes.",
+        "delivery": "I watched it all unfold.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "9bb5d03f-d436-41cc-8b4f-e205b8bb3ab3",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why did the koala get rejected?",
+        "delivery": "Because he did not have any koalafication.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "ce9e353a-ee0e-4505-b254-1fab4e355b13",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "Whats the Grinchs least favorite band?",
+        "delivery": "The Who.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "4374e20d-7e1c-4c6d-9021-95bea11afc31",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why do programmers wear glasses?",
+        "delivery": "Because they need to C#",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "ad223f90-9c17-4f67-8376-784efdc53d17",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "I told my psychiatrist I got suicidal tendencies.",
+        "delivery": "He said from now on I have to pay in advance.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "6fd908ac-6630-4e61-a43c-a520b35b30b7",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "So I made a graph of all my past relationships.",
+        "delivery": "It has an ex axis and a why axis.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "50a9e981-f0cd-4e00-a25b-9fa9b5ea62f9",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What is the difference between an oral thermometer and a rectal thermometer?",
+        "delivery": "The taste.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "d295c25a-d91c-46d6-8223-475ef6d5f3ae",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "This morning I accidentally made my coffee with Red Bull instead of water.",
+        "delivery": "I was already on the highway when I noticed I forgot my car at home.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "01ef59d8-d99c-4245-9a18-214f2d25a803",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What do Ted Bundy and the Space Shuttle Columbia have in common?",
+        "delivery": "They both left bodies in four states.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "8db0babe-8b1e-41a5-9afc-fc6520f8142e",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why did the Romanian stop reading?",
+        "delivery": "They wanted to give the Bucharest.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "d4dac061-a16e-4fe6-b7b7-997eb12e82d8",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What's long and hard and has cum in it?",
+        "delivery": "A cucumber.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "56563079-4e35-453a-8bd0-9bcc9f135f0a",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why can't orphans play baseball?",
+        "delivery": "They don't know where home is.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "dd5becaf-30fe-4bcf-9717-3fd7831e182e",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "How do Rednecks celebrate Halloween?",
+        "delivery": "Pump kin!",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "safe": false,
+        "id": "b55b144f-ee8a-45e7-838d-0f5c0c62d764",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "why do python programmers wear glasses?",
+        "delivery": "Because they can't C.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "9e1599ec-ddf2-43fa-9bb6-d561711ff270",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "No matter how kind you are...",
+        "delivery": "German kids are always Kinder.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "19ae43c9-a5d8-4bfb-8c34-a3ad348faa7e",
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "Why does Santa have three gardens?",
+        "delivery": "So he can 'ho ho ho'!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "8a735b5b-f46a-4ce9-b0c9-58a800243cc0",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why do programmers confuse Halloween and Christmas?",
+        "delivery": "Because Oct 31 = Dec 25",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "77622f75-5a93-4505-8b77-01d39386188f",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "How do you keep black people out of your back yard?",
+        "delivery": "Hang one in the front!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "33b8885f-b31a-4425-966a-5d73f9486678",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the difference between Jesus and a hooker?",
+        "delivery": "The look on their face when you are nailing them.",
+        "flags": {
+            "nsfw": false,
+            "religious": true,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "safe": false,
+        "id": "6918867a-984e-4f54-8c2e-8d8afdb71187",
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "My wife left me because I'm too insecure and paranoid.",
+        "delivery": "Oh wait, never mind. She was just getting the mail.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "e54d574f-1572-442a-af49-b461a7161c90",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "Mom asked me where I'm taking her to go out to eat for mother's day.",
+        "delivery": "I told her, \"We already have food in the house\".",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "7963f8b5-00c3-45e9-a80c-a64ffb293d47",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What did the customer say to the waiter?",
+        "delivery": "I'm all fed up with your service.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "af741ab4-05ac-4c70-9ed2-729b10313d86",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a cheap circumcision?",
+        "delivery": "A rip off.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "543f6e26-4abc-497c-b659-40620fb6b372",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "How do construction workers party?",
+        "delivery": "They raise the roof.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "81277371-dded-470e-ad1f-95daaa47827d",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How can you tell an extroverted programmer?",
+        "delivery": "He looks at YOUR shoes when he's talking.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "2e5d2b01-63b2-4725-8445-09c733c70ea4",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I can't believe I got fired from the calendar factory.",
+        "delivery": "All I did was take a day off.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "a955e5d3-bd2b-43d6-ade1-7a35b20f0d15",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Has COVID-19 forced you to wear glasses and a mask at the same time?",
+        "delivery": "If so, you may be entitled to condensation.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "0cfb8767-eeaa-4628-a60e-dc4e046e8c23",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Why did the banana go see a doctor?",
+        "delivery": "Because it wasn't peeling well.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "f8f12073-7a1a-4bd2-81ba-ab7351629265",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What do you call a bird sitting with their legs spread?",
+        "delivery": "A prostitweety.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "35e3dd9b-0d32-42a0-be13-2fa5faa5268b",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Two peanuts were walking.",
+        "delivery": "One was assaulted.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "ce0e7e3e-20c7-4506-a66c-4944084bde43",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I hate Russian matryoshka dolls.",
+        "delivery": "They're so full of themselves.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "b5a9427f-edea-4517-8fbb-f9acb1aa4f55",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why don't jews eat pussy?",
+        "delivery": "It's too close to the gas chamber.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "safe": false,
+        "id": "61702a51-f799-4f36-a5e4-58408a1cbd4d",
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What does a woman's pussy and a chainsaw have in common?",
+        "delivery": "Miss by a few inches and you're in deep shit.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "fb7d5275-ee92-4a8c-9b4a-e5e237eadc3d",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What do you call a Jewish Pokemon Trainer?",
+        "delivery": "Ash.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": false,
+        "id": "b2d1d66b-3205-4acb-b7a8-bbce3556380b",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "So what's a set of predefined steps the government might take to preserve the environment?",
+        "delivery": "An Al-Gore-ithm.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "8e5f88b9-2531-4d25-b22f-f498650fce5d",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the programmer quit his job?",
+        "delivery": "Because he didn't get arrays.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "0c0af2e2-afca-4240-9238-50a12def8eb8",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "Who hides in the bakery at Christmas?",
+        "delivery": "A mince spy!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "a02663f1-dcfc-4165-bf7b-6658dacd771d",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "Why are Americans shit at Dota?",
+        "delivery": "They can't protect their towers.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "01124410-c11b-4a2e-b796-88e67c9659b8",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "Why do ghosts go on diets?",
+        "delivery": "So they can keep their ghoulish figures.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "1160746d-78e5-49d8-ac8e-98f46e500927",
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "What's Santa's favourite type of music?",
+        "delivery": "Wrap!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "705a4d77-8dbe-4eb2-9468-1943e52dd9dc",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's the difference between a baby and a watermelon?",
+        "delivery": "One's satisfying to hit with a sledgehammer. The other's a watermelon.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "3247b235-5d86-4d19-8cab-e5fcd017a94c",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "I was walking down the street and saw some black guy on a bike and it looked just like mine so I ran home to check.",
+        "delivery": "Thankfully he was still chained up in my basement.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "687c3b0b-55c3-48de-bddd-3724d472229a",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the database administrator leave his wife?",
+        "delivery": "She had one-to-many relationships.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "2c275f0e-c141-4063-8466-b2ac9cc7156b",
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "My wife divorced me so I stole her wheelchair.",
+        "delivery": "Guess who came crawling back.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "f4552ed8-9ec1-424d-b3cf-7593adf04956",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between a school bus and a cactus?",
+        "delivery": "A cactus keeps the little pricks on the outside.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "d89e4dea-5e3d-481b-bf84-410b537a43d2",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I asked my wife if I was the only one she's been with.",
+        "delivery": "She said, \"Yes, the others were at least sevens or eights.\"",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "2c1b8e9d-cb25-42ad-a7d5-93c69829b37b",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "What do Santa's little helpers learn at school?",
+        "delivery": "The elf-abet!\n",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "0131424e-b8a1-4a01-918e-b6f454773b78",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "I had a granny that we couldn't decide whether to bury or cremate",
+        "delivery": "In the end we decided to just let her live.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "89dd3e47-7359-4a43-8c56-dbf689cd538d",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "Why did the ghost go inside the bar?",
+        "delivery": "For the boos.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "7386a121-1358-405a-9af6-605298d7a924",
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What kind of car did Whitney Houston drive?",
+        "delivery": "A Hyundaiiiiiiiiiiii",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "4a0a0b78-49fe-44fd-8300-b0ba67ed039a",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What do you call a cop's penis after he's done masturbating?",
+        "delivery": "Pulled pork.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "e7da3c49-4510-4bd8-978c-08cbf0d654b7",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "What's it like to be kissed by a vampire?",
+        "delivery": "It's a pain in the neck.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "6cda46da-7ea2-485e-9433-baa58a0047cb",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why did the Python programmer not respond to the foreign mails he got?",
+        "delivery": "Because his interpreter was busy collecting garbage.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "eff989fb-b71e-4a4e-9aaf-f537b573eca9",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "I'm thinking of setting up a comedy group to help people going through cancer treatment.",
+        "delivery": "I'll call it \"A Sense of Tumor\".",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "72f34330-7525-4a3f-918c-36b05ba689e9",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What is the best prefix for global variables?",
+        "delivery": "//",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "f335bc5e-92af-4d79-8ddc-984f9be3bac4",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Spooky",
+        "type": "twopart",
+        "setup": "What is in a ghost's nose?",
+        "delivery": "Boo-gers.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "10a3b945-6978-414d-a56a-b9cbc7eaa4b5",
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "My grandma was recently diagnosed with Alzheimer's, and she keeps calling me by the wrong name.",
+        "delivery": "Other than that, the sex is great.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "c8978c9b-6831-499c-82f2-e37fe69f77c0",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "White people don't shoot each other in the streets as black people do.",
+        "delivery": "They do it in schools because they have class.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": true,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "139aa84c-cefe-4f99-bdd0-0eee7ced9dd0",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Genders are a lot like booleans.",
+        "delivery": "There's only two of them.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": true,
+            "explicit": false
+        },
+        "id": "c3758c4a-fa98-4be9-a555-95a7626d7c74",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "How many programmers does it take to screw in a light bulb?",
+        "delivery": "None. It's a hardware problem.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "a2be693f-f675-45a5-b33a-a420bdd22c61",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What did the fish say when it swam into the wall?",
+        "delivery": "Dam.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "6bd742d3-1717-45e6-8d08-9d8b236368f7",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between a feminist and a grenade?",
+        "delivery": "The grenade actually accomplishes something when it triggers.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "cfdcdbad-6099-49b7-ae78-02bc840fa8ad",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What are bits?",
+        "delivery": "Tiny things left when you drop your computer down the stairs.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "97f3faab-4237-494e-bb0e-45cfb1b3cb9d",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Did you hear about the claustrophobic astronaut?",
+        "delivery": "He just needed a little space.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "safe": true,
+        "id": "95bbeb7d-b573-4feb-aebd-3213789321da",
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why does no one like SQLrillex?",
+        "delivery": "He keeps dropping the database.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "77c4ff32-30b4-4b00-a5ac-4ba73a54238a",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "Why couldn't the skeleton go to the Christmas party?",
+        "delivery": "Because he had no body to go with!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "b25c1b40-f44d-48e9-b351-461ceb0e9e84",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What does tofu and a dildo have in common?",
+        "delivery": "They're both meat substitutes.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "66e2948f-4bf2-49e0-a958-f6f507daf7ef",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "What does a perverted frog say?",
+        "delivery": "Rubbit.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "0bec8b53-5593-46f9-968d-7fe7ee91e978",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "I WRITE MY JOKES IN CAPITALS.",
+        "delivery": "THIS ONE WAS WRITTEN IN PARIS.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "85c8e99e-4497-4c05-8b45-95baf6d02bd6",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "How much did your chimney cost?",
+        "delivery": "Nothing, it was on the house.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "49207530-a774-4682-b55b-79e6d398d8be",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "What's black and sits at the top of a stairwell?",
+        "delivery": "A paraplegic after a house fire.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "10da647d-23e0-4f49-a53d-565eb6b3e9c0",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "Why do Java programmers hate communism?",
+        "delivery": "They don't want to live in a classless society.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "1600cddf-e909-4239-a473-9ed91e0a60ad",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Programming",
+        "type": "twopart",
+        "setup": "What do you call a group of 8 Hobbits?",
+        "delivery": "A Hobbyte.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "a1fe4968-d14a-44a7-9fbb-e70a14a3839e",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Dark",
+        "type": "twopart",
+        "setup": "I've been in 15 school shootings and I was lucky to survive!",
+        "delivery": "I just had to be nice with the cops and not resist.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "5a9d97f8-8776-4e7a-a859-977cf357dde9",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Did you hear about the cheese factory that exploded in France?",
+        "delivery": "There was nothing but de brie.",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "c0c9f532-d702-4d9a-884c-e98ef49eb0c1",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Misc",
+        "type": "twopart",
+        "setup": "What's the difference between a gay guy and a refrigerator?",
+        "delivery": "A refrigerator doesn't fart when I pull my meat out of it.",
+        "flags": {
+            "nsfw": true,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": true
+        },
+        "id": "24528db7-a907-484f-9109-dd2888c1e83b",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "How does a Jewish person make tea?",
+        "delivery": "Hebrews it.",
+        "flags": {
+            "nsfw": false,
+            "religious": true,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "a5b9d4ae-4f57-460b-9b8b-f642db503a8b",
+        "safe": false,
+        "lang": "en"
+    },
+    {
+        "category": "Christmas",
+        "type": "twopart",
+        "setup": "What do elves post on Social Media?",
+        "delivery": "Elf-ies!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": false,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "5777bfd7-55e8-456c-8782-6d69820d863f",
+        "safe": true,
+        "lang": "en"
+    },
+    {
+        "category": "Pun",
+        "type": "twopart",
+        "setup": "Where do sick cruise ships go to get healthy?",
+        "delivery": "The dock!",
+        "flags": {
+            "nsfw": false,
+            "religious": false,
+            "political": true,
+            "racist": false,
+            "sexist": false,
+            "explicit": false
+        },
+        "id": "4aef05b4-242b-41fb-a487-60aa7b326446",
+        "safe": true,
+        "lang": "en"
+    }
+]
